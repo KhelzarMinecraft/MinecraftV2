@@ -3759,9 +3759,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:31:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:31:34 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion_from_campfire_cooking": {
+    "criteria": {
+      "has_cooked_lion": "2024-12-23 00:30:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glistering_melon_slice": {
     "criteria": {
       "has_melon": "2024-12-23 00:17:16 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion_from_smoking": {
+    "criteria": {
+      "has_cooked_lion": "2024-12-23 00:30:47 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion": {
+    "criteria": {
+      "has_cooked_lion": "2024-12-23 00:30:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2024-12-23 00:31:34 +0000"
     },
     "done": true
   },

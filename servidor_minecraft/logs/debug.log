@@ -4004,3 +4004,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [23Dec2024 00:26:34.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/4510, l='ServerLevel[world]', x=-201.04, y=66.00, z=-1476.75] died, message: 'Leatherworker was slain by Ravager'
 [23Dec2024 00:28:39.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 00:28:39.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 00:30:10.056] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4473, l='ServerLevel[world]', x=-224.56, y=18.00, z=-1561.46] died, message: 'Unemployed was slain by Zombie'
+[23Dec2024 00:30:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[23Dec2024 00:33:19.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4368, l='ServerLevel[world]', x=-217.50, y=29.00, z=-1559.34] died, message: 'Fisherman was slain by Zombie'
+[23Dec2024 00:33:39.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 00:33:39.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 00:34:37.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/4359, l='ServerLevel[world]', x=-220.90, y=18.54, z=-1562.37] died, message: 'Armorer was slain by Zombie'
+[23Dec2024 00:34:54.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/4865, l='ServerLevel[world]', x=-155.64, y=82.38, z=-1506.65] died, message: 'Nitwit hit the ground too hard'
+[23Dec2024 00:35:18.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4609, l='ServerLevel[world]', x=-172.47, y=26.00, z=-1546.70] died, message: 'Unemployed was slain by Zombie'
+[23Dec2024 00:36:11.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[23Dec2024 00:38:39.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 00:38:39.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
