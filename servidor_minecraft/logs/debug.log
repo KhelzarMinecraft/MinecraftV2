@@ -3937,3 +3937,70 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [23Dec2024 00:07:10.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [23Dec2024 00:08:39.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [23Dec2024 00:08:39.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 00:10:39.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[23Dec2024 00:13:39.233] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 00:13:39.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 00:13:45.586] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-367 | 7 | -1766)
+[23Dec2024 00:13:45.587] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation CLOCKWISE_180 at (-367 | 7 | -1766)
+[23Dec2024 00:13:45.587] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-367 | 7 | -1766)
+[23Dec2024 00:13:45.587] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-367 | 7 | -1766)
+[23Dec2024 00:13:45.587] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-362 | 7 | -1766)
+[23Dec2024 00:13:45.588] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_6 with rotation NONE at (-362 | 7 | -1766)
+[23Dec2024 00:13:45.588] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-362 | 7 | -1766)
+[23Dec2024 00:13:45.589] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:default/node/connector/connector_6 at (-362 | 7 | -1766)
+[23Dec2024 00:13:45.589] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation NONE at (-357 | 6 | -1771)
+[23Dec2024 00:13:45.596] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation NONE at (-357 | 6 | -1771)
+[23Dec2024 00:13:45.597] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (-357 | 6 | -1771)
+[23Dec2024 00:13:45.599] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (-357 | 6 | -1771)
+[23Dec2024 00:13:45.600] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-371 | -2 | -1766)
+[23Dec2024 00:13:45.600] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:default/node/connector/connector_lava with rotation NONE at (-371 | -2 | -1766)
+[23Dec2024 00:13:45.600] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-366 | -3 | -1771)
+[23Dec2024 00:13:45.603] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-366 | -3 | -1771)
+[23Dec2024 00:13:50.640] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:catacombs/node/sewers_dead_end with rotation NONE at (-357 | 6 | -1771)
+[23Dec2024 00:13:50.642] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:catacombs/node/sewers_dead_end with rotation NONE at (-357 | 6 | -1771)
+[23Dec2024 00:13:50.642] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Running decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (-357 | 6 | -1771)
+[23Dec2024 00:13:50.644] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished decoration VineDecoration[chance=0.35] for dungeoncrawl:catacombs/node/sewers_dead_end at (-357 | 6 | -1771)
+[23Dec2024 00:13:50.644] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-366 | -3 | -1771)
+[23Dec2024 00:13:50.645] [Worker-Main-35/DEBUG] [Dungeon Crawl/]: Finished building dungeoncrawl:hell/node/small_loot_room with rotation CLOCKWISE_90 at (-366 | -3 | -1771)
+[23Dec2024 00:15:37.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[23Dec2024 00:16:03.911] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4385, l='ServerLevel[world]', x=-198.93, y=16.00, z=-1533.71] died, message: 'Unemployed was slain by Zombie'
+[23Dec2024 00:16:18.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was burnt to a crisp whilst fighting Marisita
+[23Dec2024 00:16:47.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was slain by Marisita
+[23Dec2024 00:16:56.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4384, l='ServerLevel[world]', x=-211.96, y=16.00, z=-1542.63] died, message: 'Unemployed was slain by Zombie'
+[23Dec2024 00:16:57.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4333, l='ServerLevel[world]', x=-259.41, y=64.00, z=-1487.80] died, message: 'Unemployed was slain by Vindicator'
+[23Dec2024 00:17:30.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4300, l='ServerLevel[world]', x=-258.02, y=64.00, z=-1497.30] died, message: 'Unemployed was shot by Pillager'
+[23Dec2024 00:18:05.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4501, l='ServerLevel[world]', x=-202.45, y=29.00, z=-1554.04] died, message: 'Unemployed hit the ground too hard'
+[23Dec2024 00:18:15.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4369, l='ServerLevel[world]', x=-227.33, y=31.00, z=-1573.60] died, message: 'Unemployed hit the ground too hard'
+[23Dec2024 00:18:27.705] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/4682, l='ServerLevel[world]', x=-213.63, y=40.19, z=-1556.31] died, message: 'Fletcher hit the ground too hard'
+[23Dec2024 00:18:39.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 00:18:39.277] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 00:19:02.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4239, l='ServerLevel[world]', x=-270.54, y=63.00, z=-1501.85] died, message: 'Farmer was slain by Vindicator'
+[23Dec2024 00:19:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[23Dec2024 00:19:31.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[23Dec2024 00:20:09.880] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Dec2024 00:20:09.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Dec2024 00:20:09.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Dec2024 00:20:09.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Dec2024 00:20:09.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Dec2024 00:20:09.883] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[23Dec2024 00:20:26.567] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[23Dec2024 00:20:26.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[23Dec2024 00:20:26.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Dec2024 00:20:26.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
+[23Dec2024 00:20:26.569] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
+[23Dec2024 00:20:37.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4238, l='ServerLevel[world]', x=-254.86, y=64.25, z=-1480.27] died, message: 'Farmer was slain by Ravager'
+[23Dec2024 00:20:48.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[23Dec2024 00:22:09.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4367, l='ServerLevel[world]', x=-243.70, y=56.05, z=-1562.91] died, message: 'Fisherman was shot by Pillager'
+[23Dec2024 00:22:13.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4590, l='ServerLevel[world]', x=-169.50, y=26.00, z=-1545.40] died, message: 'Unemployed hit the ground too hard'
+[23Dec2024 00:22:37.456] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4591, l='ServerLevel[world]', x=-169.30, y=26.00, z=-1545.70] died, message: 'Unemployed was slain by Zombie'
+[23Dec2024 00:22:49.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4366, l='ServerLevel[world]', x=-229.37, y=31.00, z=-1573.46] died, message: 'Fisherman hit the ground too hard'
+[23Dec2024 00:23:26.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4383, l='ServerLevel[world]', x=-192.88, y=29.00, z=-1552.70] died, message: 'Unemployed was slain by Zombie'
+[23Dec2024 00:23:39.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 00:23:39.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Dec2024 00:23:50.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[23Dec2024 00:24:46.955] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4592, l='ServerLevel[world]', x=-170.45, y=29.17, z=-1546.85] died, message: 'Unemployed was slain by Zombie'
+[23Dec2024 00:25:34.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar fell from a high place
+[23Dec2024 00:25:39.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[23Dec2024 00:26:34.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/4510, l='ServerLevel[world]', x=-201.04, y=66.00, z=-1476.75] died, message: 'Leatherworker was slain by Ravager'
+[23Dec2024 00:28:39.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Dec2024 00:28:39.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
