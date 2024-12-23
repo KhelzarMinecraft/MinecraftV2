@@ -3703,23 +3703,11 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
-    "criteria": {
-      "has_light_gray_terracotta": "2024-11-12 01:51:24 +0000"
-    },
-    "done": true
-  },
   "repurposed_structures:igloos": {
     "criteria": {
       "in_igloo_grassy": "2024-11-12 01:35:17 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/transportation/activator_rail": {
-    "criteria": {
-      "has_rail": "2024-11-12 01:51:18 +0000"
-    },
-    "done": true
   },
   "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
@@ -3727,9 +3715,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/detector_rail": {
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
-      "has_rail": "2024-11-12 01:51:18 +0000"
+      "has_bow": "2024-11-12 01:44:02 +0000"
     },
     "done": true
   },
@@ -3739,15 +3727,27 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/dispenser": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_bow": "2024-11-12 01:44:02 +0000"
+      "has_rail": "2024-11-12 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2024-11-12 01:51:18 +0000"
     },
     "done": true
   },
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-11-12 01:51:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2024-11-12 01:51:24 +0000"
     },
     "done": true
   },

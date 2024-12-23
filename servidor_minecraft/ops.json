@@ -4,5 +4,11 @@
     "name": "Khelzar",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3",
+    "name": "Marisita",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]
