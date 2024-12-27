@@ -7,3 +7,8 @@
 [27Dec2024 00:05:52.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marisita[/127.179.63.7:37371] logged in with entity id 701 at (-623.5855082014525, 84.384375, -1650.9148217589743)
 [27Dec2024 00:05:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita joined the game
 [27Dec2024 00:05:53.063] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
+[27Dec2024 00:17:53.980] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita lost connection: Timed out
+[27Dec2024 00:17:53.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita left the game
+[27Dec2024 00:18:26.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marisita[/127.179.63.7:52037] logged in with entity id 2208 at (-635.2782743690173, 83.0, -1660.0494086654828)
+[27Dec2024 00:18:26.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita joined the game
+[27Dec2024 00:18:26.324] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
