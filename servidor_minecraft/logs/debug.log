@@ -12226,3 +12226,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [27Dec2024 03:58:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar left the game
 [27Dec2024 03:58:44.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita lost connection: Disconnected
 [27Dec2024 03:58:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita left the game
+[27Dec2024 04:03:33.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 04:03:33.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 04:08:33.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 04:08:33.828] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
