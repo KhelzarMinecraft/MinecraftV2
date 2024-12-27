@@ -954,6 +954,7 @@
       "minecraft:evoker": "2024-11-11 02:37:09 +0000",
       "minecraft:slime": "2024-12-23 03:21:39 +0000",
       "minecraft:phantom": "2024-12-23 03:27:32 +0000",
+      "minecraft:zombified_piglin": "2024-12-27 02:15:22 +0000",
       "minecraft:witch": "2024-11-11 01:27:52 +0000",
       "minecraft:wither_skeleton": "2024-11-11 00:14:28 +0000",
       "minecraft:husk": "2024-11-12 01:48:23 +0000",
@@ -1026,9 +1027,10 @@
       "minecraft:crimson_forest": "2024-11-08 18:05:50 +0000",
       "minecraft:nether_wastes": "2024-11-08 18:04:53 +0000",
       "minecraft:soul_sand_valley": "2024-11-08 18:12:00 +0000",
-      "minecraft:basalt_deltas": "2024-11-08 18:11:25 +0000"
+      "minecraft:basalt_deltas": "2024-11-08 18:11:25 +0000",
+      "minecraft:warped_forest": "2024-12-27 02:07:29 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:story/enter_the_nether": {
     "criteria": {

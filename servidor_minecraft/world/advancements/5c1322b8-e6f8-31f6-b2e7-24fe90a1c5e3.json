@@ -4133,12 +4133,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2024-12-27 01:12:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/chest_minecart": {
     "criteria": {
       "has_minecart": "2024-12-27 00:40:35 +0000"
@@ -4157,15 +4151,54 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_minecart": "2024-12-27 00:40:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2024-12-27 01:12:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/block_pocket_manager": {
     "criteria": {
       "has_redstone_block": "2024-12-27 01:12:32 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/rail": {
+  "minecraft:story/form_obsidian": {
     "criteria": {
-      "has_minecart": "2024-12-27 00:40:35 +0000"
+      "obsidian": "2024-12-27 02:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-27 02:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-12-27 02:14:55 +0000",
+      "minecraft:nether_wastes": "2024-12-27 02:14:01 +0000",
+      "minecraft:soul_sand_valley": "2024-12-27 02:18:22 +0000",
+      "minecraft:warped_forest": "2024-12-27 02:07:26 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-27 02:07:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-27 02:07:24 +0000"
     },
     "done": true
   },

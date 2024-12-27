@@ -53,3 +53,87 @@
 [27Dec2024 01:55:44.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita was slain by Warden
 [27Dec2024 01:56:07.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [27Dec2024 01:59:45.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[27Dec2024 01:59:50.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[27Dec2024 01:59:55.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[27Dec2024 02:00:52.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita has made the advancement [Ice Bucket Challenge]
+[27Dec2024 02:03:50.028] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita lost connection: Timed out
+[27Dec2024 02:03:50.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita left the game
+[27Dec2024 02:04:26.184] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@b49dbe7[id=<null>,name=Marisita,properties={},legacy=false] (/127.179.63.7:46073) lost connection: Disconnected
+[27Dec2024 02:04:49.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marisita[/127.179.63.7:59661] logged in with entity id 21282 at (-631.5, 83.0, -1660.5)
+[27Dec2024 02:04:49.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita joined the game
+[27Dec2024 02:04:49.184] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
+[27Dec2024 02:05:38.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 02:07:24.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita has made the advancement [We Need to Go Deeper]
+[27Dec2024 02:07:25.762] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3443ms or 68 ticks behind
+[27Dec2024 02:07:29.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has completed the challenge [Hot Tourist Destinations]
+[27Dec2024 02:10:08.174] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Khelzar moved wrongly!
+[27Dec2024 02:10:50.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 02:11:51.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 02:12:46.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[27Dec2024 02:13:48.354] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Khelzar moved too quickly! -9.01948796215666,4.0,-2.094378453882541
+[27Dec2024 02:14:15.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 02:14:43.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 02:14:54.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 02:16:47.777] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -2.0369024627232193,3.573259447365075,9.343535083841545
+[27Dec2024 02:16:47.778] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -2.53624879167333,4.239534665194483,11.100413722106822
+[27Dec2024 02:16:49.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -6.261615259656708,4.094023002614975,7.703271164693604
+[27Dec2024 02:16:49.128] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -7.634681249688327,4.844089041341718,8.707586832268277
+[27Dec2024 02:16:49.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -8.955912738064626,5.510364259171126,9.624597132879103
+[27Dec2024 02:16:49.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -10.233226987692177,6.096166771044494,10.444466727358716
+[27Dec2024 02:16:49.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -11.47064919406833,6.604683294613494,11.16347195200538
+[27Dec2024 02:16:49.133] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -12.67118770657487,7.038974353570353,11.784600909156836
+[27Dec2024 02:16:49.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -13.838332817653878,7.401979274926276,12.316161739104714
+[27Dec2024 02:16:49.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -14.975734764741077,7.673777206686438,12.765690494118275
+[27Dec2024 02:16:49.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -15.99006985038639,7.857979943933984,13.16658024939295
+[27Dec2024 02:16:49.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -16.894653905834843,7.958056254734288,13.52409374345038
+[27Dec2024 02:16:49.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -17.70136198973296,7.977337544002168,13.84292428663943
+[27Dec2024 02:16:49.141] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -18.420784279686927,7.9190232930800875,14.127257373249861
+[27Dec2024 02:16:49.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -19.06236509635812,7.853414285217596,14.380825627196842
+[27Dec2024 02:16:49.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -19.63452688515511,7.780799392653165,14.60695780258385
+[27Dec2024 02:16:49.142] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -20.144780783109695,7.701456048290055,14.808622482405923
+[27Dec2024 02:16:49.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -20.599825222419895,7.615650698693713,14.988467049054336
+[27Dec2024 02:16:49.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -21.00563386509205,7.523639239150597,15.148852438213666
+[27Dec2024 02:16:49.143] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -21.367534023056976,7.4256674314985815,15.291884132388105
+[27Dec2024 02:16:49.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -21.690276593231488,7.321971305411381,15.419439800928998
+[27Dec2024 02:16:49.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -21.978098425608096,7.212777543792015,15.533193949412151
+[27Dec2024 02:16:49.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -22.2745830678588,7.098303852904806,15.543332805391032
+[27Dec2024 02:16:49.328] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -17.75418986143987,3.7220481049682377,8.84080743630075
+[27Dec2024 02:16:49.329] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -18.064588856074863,3.59763353108022,8.675832558265355
+[27Dec2024 02:16:49.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -18.380488763886575,3.4685417718056897,8.437090753720355
+[27Dec2024 02:16:49.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -18.70057292449738,3.334958043598519,8.132259158608733
+[27Dec2024 02:16:49.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -19.024141702660273,3.1970602283444833,7.768386029841338
+[27Dec2024 02:16:49.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -19.35081806284566,3.0550191638100017,7.351859659842262
+[27Dec2024 02:16:49.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -19.680265764758587,2.9089989225891344,6.888377127959515
+[27Dec2024 02:16:49.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -20.012184949295374,2.7591570800042717,6.383019089702046
+[27Dec2024 02:16:49.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -20.346308202099635,2.605644971398007,5.840316473783346
+[27Dec2024 02:16:49.600] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -20.682397043041476,2.448607939236183,5.264309962546548
+[27Dec2024 02:16:49.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -21.020238795534937,2.2881855704257106,4.658603036609108
+[27Dec2024 02:16:49.605] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -21.359643794595172,2.1245119242345964,4.026409280078298
+[27Dec2024 02:16:49.606] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -21.700442896983844,1.957715751186342,3.3705945673435593
+[27Dec2024 02:16:49.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -22.04248526075665,1.7879207032861189,2.693714685259067
+[27Dec2024 02:16:50.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -22.38563636506376,1.6152455359220141,1.9980488846070585
+[27Dec2024 02:16:50.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -22.69165852870435,1.4398043017709483,1.377654105705929
+[27Dec2024 02:16:50.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -22.964569102104264,1.2617065370260008,0.8243860259368034
+[27Dec2024 02:16:50.050] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -23.207950758476528,1.081057440249026,0.330981538178861
+[27Dec2024 02:16:50.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -23.424998525884575,0.8979580441408075,-0.10903659668491628
+[27Dec2024 02:16:50.078] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -23.618561730437534,0.7125053805090573,-0.5014447806655653
+[27Dec2024 02:16:50.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -23.791181401232734,0.5247926387037154,-0.8513944092249943
+[27Dec2024 02:16:50.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -23.945123628084474,0.3349093177782123,-1.1634794969685345
+[27Dec2024 02:16:50.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -24.082409309947423,0.1429413726251454,-1.4417969862392823
+[27Dec2024 02:16:50.267] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -24.204840684561248,-0.05102864567504639,-1.6900005303241272
+[27Dec2024 02:16:50.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -24.31402498758854,-0.2469214550631733,-1.9113484573181978
+[27Dec2024 02:16:50.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -24.41139555183446,-0.4446609130480823,-2.1087465443004874
+[27Dec2024 02:16:50.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -24.498230623531555,-0.6441738923798539,-2.2847861633447195
+[27Dec2024 02:16:50.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! -24.57567014270282,-0.8453901616463071,-2.441778300132853
+[27Dec2024 02:16:50.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 6.321742917104814,-5.2588549813113445,-11.903595256900815
+[27Dec2024 02:16:50.512] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 6.321742917104814,-5.2588549813113445,-11.903595256900815
+[27Dec2024 02:16:50.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 6.210499761435756,-5.43896330855155,-12.133232711464473
+[27Dec2024 02:16:50.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 6.069110521869135,-5.598799567875204,-12.427655262287402
+[27Dec2024 02:16:50.513] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 5.9008370039078955,-5.739166532792879,-12.779853163619464
+[27Dec2024 02:16:50.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 5.708356205485359,-5.860835186999125,-13.183465630157343
+[27Dec2024 02:16:50.628] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 5.492885065867426,-5.9645459832486125,-13.632251677052835
+[27Dec2024 02:16:50.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 5.25621403711196,-6.051010052380761,-14.120976307364913
+[27Dec2024 02:16:50.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 4.999942595927678,-6.120910364467036,-14.644965483079318
+[27Dec2024 02:16:50.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 4.726191506435612,-6.174902843976838,-15.200403581289862
+[27Dec2024 02:17:55.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Khelzar> [name:"Portal Nether", x:-54, y:90, z:-210, dim:minecraft:the_nether]
+[27Dec2024 02:19:48.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Creative Mode]
