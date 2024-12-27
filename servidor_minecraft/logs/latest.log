@@ -191,3 +191,12 @@
 [27Dec2024 03:36:09.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [27Dec2024 03:36:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita has made the advancement [Eye Spy]
 [27Dec2024 03:38:23.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the time to 1000]
+[27Dec2024 03:53:33.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 03:54:59.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Creative Mode]
+[27Dec2024 03:55:21.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Creative Mode]
+[27Dec2024 03:55:47.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Survival Mode]
+[27Dec2024 03:55:57.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Survival Mode]
+[27Dec2024 03:58:41.225] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Khelzar lost connection: Disconnected
+[27Dec2024 03:58:41.225] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar left the game
+[27Dec2024 03:58:44.423] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita lost connection: Disconnected
+[27Dec2024 03:58:44.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita left the game
