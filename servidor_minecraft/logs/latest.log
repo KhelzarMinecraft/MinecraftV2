@@ -160,3 +160,28 @@
 [27Dec2024 03:07:20.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita was shot by Khelzar
 [27Dec2024 03:07:20.894] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Marisita with unique ID travelersbackpack.snow_27.12.2024-03.07.20.dat
 [27Dec2024 03:07:20.894] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -613 Y: 83.0 Z: -1666
+[27Dec2024 03:12:58.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 03:13:14.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was burnt to a crisp whilst fighting Marisita
+[27Dec2024 03:23:09.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 03:23:26.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 03:23:54.234] [Worker-Main-70/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-352, y=36, z=-739}
+[27Dec2024 03:23:54.235] [Worker-Main-70/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-352, 36, -739)
+[27Dec2024 03:23:54.236] [Worker-Main-70/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-352, y=36, z=-739}
+[27Dec2024 03:23:54.257] [Worker-Main-70/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-368, y=16, z=-754}
+[27Dec2024 03:23:54.257] [Worker-Main-70/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-368, 16, -754)
+[27Dec2024 03:23:54.257] [Worker-Main-70/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-368, y=16, z=-754}
+[27Dec2024 03:23:57.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[27Dec2024 03:26:02.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[27Dec2024 03:30:20.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[27Dec2024 03:30:31.907] [Worker-Main-70/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1542, y=33, z=-1008}
+[27Dec2024 03:30:31.908] [Worker-Main-70/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1542, y=35, z=-1008}
+[27Dec2024 03:30:31.908] [Worker-Main-70/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1542, y=33, z=-1008}
+[27Dec2024 03:30:31.908] [Worker-Main-70/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-1542, 33, -1008)
+[27Dec2024 03:30:31.908] [Worker-Main-70/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1542, y=35, z=-1008}
+[27Dec2024 03:30:31.908] [Worker-Main-70/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-1542, 35, -1008)
+[27Dec2024 03:30:32.741] [Worker-Main-66/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1473, y=33, z=-898}
+[27Dec2024 03:30:32.741] [Worker-Main-66/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-1473, 33, -898)
+[27Dec2024 03:30:32.741] [Worker-Main-66/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1473, y=33, z=-898}
+[27Dec2024 03:30:32.742] [Worker-Main-66/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1455, y=24, z=-898}
+[27Dec2024 03:30:32.742] [Worker-Main-66/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-1455, 24, -898)
+[27Dec2024 03:30:32.742] [Worker-Main-66/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1455, y=24, z=-898}
