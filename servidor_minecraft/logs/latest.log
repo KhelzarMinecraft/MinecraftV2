@@ -44,3 +44,12 @@
 [27Dec2024 01:48:40.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [27Dec2024 01:48:46.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
 [27Dec2024 01:48:50.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was burnt to a crisp whilst fighting Warden
+[27Dec2024 01:49:39.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[27Dec2024 01:53:13.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was obliterated by a sonically-charged shriek
+[27Dec2024 01:54:41.996] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita moved wrongly!
+[27Dec2024 01:54:46.955] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita moved wrongly!
+[27Dec2024 01:54:54.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was slain by Warden
+[27Dec2024 01:55:33.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was slain by Warden
+[27Dec2024 01:55:44.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita was slain by Warden
+[27Dec2024 01:56:07.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 01:59:45.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
