@@ -16,3 +16,24 @@
 [27Dec2024 00:33:34.336] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [27Dec2024 00:46:03.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [27Dec2024 01:11:26.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[27Dec2024 01:26:52.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 01:26:53.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [Sneak 100]
+[27Dec2024 01:28:05.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was slain by Warden
+[27Dec2024 01:28:30.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was slain by Warden
+[27Dec2024 01:28:40.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita was slain by Warden
+[27Dec2024 01:28:40.212] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Marisita with unique ID travelersbackpack.snow_27.12.2024-01.28.40.dat
+[27Dec2024 01:28:40.215] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -568 Y: 32.0 Z: -2970
+[27Dec2024 01:28:49.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 01:29:05.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was slain by Warden
+[27Dec2024 01:29:17.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was slain by Warden
+[27Dec2024 01:29:25.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita was slain by Warden
+[27Dec2024 01:29:29.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 01:29:46.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was slain by Warden
+[27Dec2024 01:30:22.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was obliterated by a sonically-charged shriek
+[27Dec2024 01:30:53.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was obliterated by a sonically-charged shriek
+[27Dec2024 01:33:03.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was obliterated by a sonically-charged shriek
+[27Dec2024 01:34:30.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was obliterated by a sonically-charged shriek
+[27Dec2024 01:35:52.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 01:36:52.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 01:37:09.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 01:38:13.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was slain by Warden
