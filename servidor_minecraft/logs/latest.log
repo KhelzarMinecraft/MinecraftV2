@@ -1065,3 +1065,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [27Dec2024 13:51:05.744] [Server thread/INFO] [Jade/]: Syncing config to Khelzar (0cce32af-d9cd-3cbf-afc8-087c00dcfc68)
 [27Dec2024 13:51:49.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Creative Mode]
 [27Dec2024 14:15:56.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [Oh Shiny]
+[27Dec2024 14:30:28.746] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Khelzar lost connection: Disconnected
+[27Dec2024 14:30:28.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar left the game
