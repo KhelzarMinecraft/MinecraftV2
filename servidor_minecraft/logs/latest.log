@@ -137,3 +137,6 @@
 [27Dec2024 02:16:50.739] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nether Bat (vehicle of Marisita) moved too quickly! 4.726191506435612,-6.174902843976838,-15.200403581289862
 [27Dec2024 02:17:55.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Khelzar> [name:"Portal Nether", x:-54, y:90, z:-210, dim:minecraft:the_nether]
 [27Dec2024 02:19:48.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Creative Mode]
+[27Dec2024 02:22:16.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Survival Mode]
+[27Dec2024 02:25:20.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 02:28:03.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]

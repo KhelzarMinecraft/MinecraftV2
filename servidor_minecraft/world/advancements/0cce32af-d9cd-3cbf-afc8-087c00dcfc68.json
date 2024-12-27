@@ -960,6 +960,7 @@
       "minecraft:husk": "2024-11-12 01:48:23 +0000",
       "minecraft:cave_spider": "2024-11-11 00:15:02 +0000",
       "minecraft:stray": "2024-11-11 00:09:19 +0000",
+      "minecraft:enderman": "2024-12-27 02:19:34 +0000",
       "minecraft:silverfish": "2024-12-27 01:01:41 +0000",
       "minecraft:vex": "2024-11-11 03:21:04 +0000",
       "minecraft:zombie": "2024-11-10 23:47:58 +0000",
@@ -4080,6 +4081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-27 02:23:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-27 01:45:09 +0000"
@@ -4098,9 +4105,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2024-12-27 02:21:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-27 01:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_button": {
+    "criteria": {
+      "has_planks": "2024-12-27 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-27 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-27 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_sign": {
+    "criteria": {
+      "has_planks": "2024-12-27 02:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_door": {
+    "criteria": {
+      "has_planks": "2024-12-27 02:23:36 +0000"
     },
     "done": true
   },
@@ -4122,9 +4165,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/warped_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-27 02:23:36 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
       "has_gray_wool": "2024-12-27 01:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_slab": {
+    "criteria": {
+      "has_planks": "2024-12-27 02:23:36 +0000"
     },
     "done": true
   },
@@ -4146,6 +4201,12 @@
     },
     "done": true
   },
+  "exlinefurniture:recipes/misc/warped": {
+    "criteria": {
+      "has_ingredient": "2024-12-27 02:23:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2024-12-27 01:42:25 +0000"
@@ -4161,6 +4222,18 @@
   "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-27 01:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 02:21:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/warped_fence": {
+    "criteria": {
+      "has_planks": "2024-12-27 02:23:36 +0000"
     },
     "done": true
   },
