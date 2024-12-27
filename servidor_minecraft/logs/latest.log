@@ -150,3 +150,13 @@
 [27Dec2024 02:57:37.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [27Dec2024 02:58:20.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Creative Mode]
 [27Dec2024 03:00:48.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Creative Mode]
+[27Dec2024 03:01:31.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Survival Mode]
+[27Dec2024 03:01:48.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [The Parrots and the Bats]
+[27Dec2024 03:02:18.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Creative Mode]
+[27Dec2024 03:03:33.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Survival Mode]
+[27Dec2024 03:03:38.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Survival Mode]
+[27Dec2024 03:06:48.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was shot by Khelzar
+[27Dec2024 03:06:51.124] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was burnt to a crisp whilst fighting Marisita
+[27Dec2024 03:07:20.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita was shot by Khelzar
+[27Dec2024 03:07:20.894] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Marisita with unique ID travelersbackpack.snow_27.12.2024-03.07.20.dat
+[27Dec2024 03:07:20.894] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: There's no space for backpack. Dropping backpack item at X: -613 Y: 83.0 Z: -1666
