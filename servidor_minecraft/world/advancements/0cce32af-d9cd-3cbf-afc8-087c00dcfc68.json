@@ -959,6 +959,7 @@
       "minecraft:wither_skeleton": "2024-11-11 00:14:28 +0000",
       "minecraft:husk": "2024-11-12 01:48:23 +0000",
       "minecraft:cave_spider": "2024-11-11 00:15:02 +0000",
+      "minecraft:piglin": "2024-12-27 14:14:20 +0000",
       "minecraft:stray": "2024-11-11 00:09:19 +0000",
       "minecraft:enderman": "2024-12-27 02:19:34 +0000",
       "minecraft:silverfish": "2024-12-27 01:01:41 +0000",
@@ -4349,6 +4350,12 @@
   "minecraft:recipes/decorations/yellow_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-12-27 14:01:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/misc/keypad_item": {
+    "criteria": {
+      "has_stone_button": "2024-12-27 14:11:56 +0000"
     },
     "done": true
   },
