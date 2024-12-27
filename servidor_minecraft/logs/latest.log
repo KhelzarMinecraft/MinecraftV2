@@ -1,54 +1,9 @@
-[23Dec2024 00:05:40.777] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marisita[/127.179.63.7:49075] logged in with entity id 2077 at (-1595.4642946834704, 75.0, -278.6526916413032)
-[23Dec2024 00:05:40.793] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita joined the game
-[23Dec2024 00:05:40.805] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
-[23Dec2024 00:06:44.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made Marisita a server operator
-[23Dec2024 00:07:10.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
-[23Dec2024 00:10:39.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
-[23Dec2024 00:15:37.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
-[23Dec2024 00:16:03.911] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4385, l='ServerLevel[world]', x=-198.93, y=16.00, z=-1533.71] died, message: 'Unemployed was slain by Zombie'
-[23Dec2024 00:16:18.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was burnt to a crisp whilst fighting Marisita
-[23Dec2024 00:16:47.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar was slain by Marisita
-[23Dec2024 00:16:56.607] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4384, l='ServerLevel[world]', x=-211.96, y=16.00, z=-1542.63] died, message: 'Unemployed was slain by Zombie'
-[23Dec2024 00:16:57.761] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4333, l='ServerLevel[world]', x=-259.41, y=64.00, z=-1487.80] died, message: 'Unemployed was slain by Vindicator'
-[23Dec2024 00:17:30.213] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4300, l='ServerLevel[world]', x=-258.02, y=64.00, z=-1497.30] died, message: 'Unemployed was shot by Pillager'
-[23Dec2024 00:18:05.857] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4501, l='ServerLevel[world]', x=-202.45, y=29.00, z=-1554.04] died, message: 'Unemployed hit the ground too hard'
-[23Dec2024 00:18:15.903] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4369, l='ServerLevel[world]', x=-227.33, y=31.00, z=-1573.60] died, message: 'Unemployed hit the ground too hard'
-[23Dec2024 00:18:27.705] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fletcher'/4682, l='ServerLevel[world]', x=-213.63, y=40.19, z=-1556.31] died, message: 'Fletcher hit the ground too hard'
-[23Dec2024 00:19:02.408] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4239, l='ServerLevel[world]', x=-270.54, y=63.00, z=-1501.85] died, message: 'Farmer was slain by Vindicator'
-[23Dec2024 00:19:07.931] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
-[23Dec2024 00:19:31.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
-[23Dec2024 00:20:09.880] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[23Dec2024 00:20:09.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[23Dec2024 00:20:09.881] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[23Dec2024 00:20:09.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[23Dec2024 00:20:09.882] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[23Dec2024 00:20:09.883] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
-[23Dec2024 00:20:26.567] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
-[23Dec2024 00:20:26.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
-[23Dec2024 00:20:26.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[23Dec2024 00:20:26.568] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_ingot
-[23Dec2024 00:20:26.569] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_nugget
-[23Dec2024 00:20:37.757] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4238, l='ServerLevel[world]', x=-254.86, y=64.25, z=-1480.27] died, message: 'Farmer was slain by Ravager'
-[23Dec2024 00:20:48.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
-[23Dec2024 00:22:09.010] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4367, l='ServerLevel[world]', x=-243.70, y=56.05, z=-1562.91] died, message: 'Fisherman was shot by Pillager'
-[23Dec2024 00:22:13.852] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4590, l='ServerLevel[world]', x=-169.50, y=26.00, z=-1545.40] died, message: 'Unemployed hit the ground too hard'
-[23Dec2024 00:22:37.456] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4591, l='ServerLevel[world]', x=-169.30, y=26.00, z=-1545.70] died, message: 'Unemployed was slain by Zombie'
-[23Dec2024 00:22:49.902] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4366, l='ServerLevel[world]', x=-229.37, y=31.00, z=-1573.46] died, message: 'Fisherman hit the ground too hard'
-[23Dec2024 00:23:26.107] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4383, l='ServerLevel[world]', x=-192.88, y=29.00, z=-1552.70] died, message: 'Unemployed was slain by Zombie'
-[23Dec2024 00:23:50.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
-[23Dec2024 00:24:46.955] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4592, l='ServerLevel[world]', x=-170.45, y=29.17, z=-1546.85] died, message: 'Unemployed was slain by Zombie'
-[23Dec2024 00:25:34.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar fell from a high place
-[23Dec2024 00:25:39.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
-[23Dec2024 00:26:34.661] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/4510, l='ServerLevel[world]', x=-201.04, y=66.00, z=-1476.75] died, message: 'Leatherworker was slain by Ravager'
-[23Dec2024 00:30:10.056] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4473, l='ServerLevel[world]', x=-224.56, y=18.00, z=-1561.46] died, message: 'Unemployed was slain by Zombie'
-[23Dec2024 00:30:28.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
-[23Dec2024 00:33:19.356] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/4368, l='ServerLevel[world]', x=-217.50, y=29.00, z=-1559.34] died, message: 'Fisherman was slain by Zombie'
-[23Dec2024 00:34:37.656] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/4359, l='ServerLevel[world]', x=-220.90, y=18.54, z=-1562.37] died, message: 'Armorer was slain by Zombie'
-[23Dec2024 00:34:54.008] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/4865, l='ServerLevel[world]', x=-155.64, y=82.38, z=-1506.65] died, message: 'Nitwit hit the ground too hard'
-[23Dec2024 00:35:18.860] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4609, l='ServerLevel[world]', x=-172.47, y=26.00, z=-1546.70] died, message: 'Unemployed was slain by Zombie'
-[23Dec2024 00:36:11.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
-[23Dec2024 00:39:14.804] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4647, l='ServerLevel[world]', x=-204.24, y=71.00, z=-1546.70] died, message: 'Farmer was slain by Zombie'
-[23Dec2024 00:40:55.255] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/4858, l='ServerLevel[world]', x=-218.36, y=69.00, z=-1494.11] died, message: 'Cartographer was slain by Zombie'
-[23Dec2024 00:41:21.355] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/4476, l='ServerLevel[world]', x=-226.07, y=31.00, z=-1572.98] died, message: 'Farmer hit the ground too hard whilst trying to escape Zombie'
-[23Dec2024 00:43:47.854] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/4601, l='ServerLevel[world]', x=-161.76, y=68.75, z=-1503.34] died, message: 'Unemployed was slain by Zombie'
-[23Dec2024 00:44:37.706] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cartographer'/4864, l='ServerLevel[world]', x=-155.30, y=68.00, z=-1506.52] died, message: 'Cartographer was slain by Zombie'
+[27Dec2024 00:03:29.461] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Khelzar[/127.127.152.232:48929] logged in with entity id 73 at (-635.237077274112, 83.5625, -1662.421442058479)
+[27Dec2024 00:03:29.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar joined the game
+[27Dec2024 00:03:29.564] [Server thread/INFO] [Jade/]: Syncing config to Khelzar (0cce32af-d9cd-3cbf-afc8-087c00dcfc68)
+[27Dec2024 00:04:30.726] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [refinedstorage:main_channel] rejected their client side version number
+[27Dec2024 00:04:30.727] [Netty Epoll Server IO #3/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[27Dec2024 00:04:30.738] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6b0e3ce0[id=<null>,name=Marisita,properties={},legacy=false] (/127.179.63.7:57835) lost connection: Connection closed - mismatched mod channel list
+[27Dec2024 00:05:52.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marisita[/127.179.63.7:37371] logged in with entity id 701 at (-623.5855082014525, 84.384375, -1650.9148217589743)
+[27Dec2024 00:05:52.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita joined the game
+[27Dec2024 00:05:53.063] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
