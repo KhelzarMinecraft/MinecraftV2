@@ -962,6 +962,7 @@
       "minecraft:stray": "2024-11-11 00:09:19 +0000",
       "minecraft:enderman": "2024-12-27 02:19:34 +0000",
       "minecraft:silverfish": "2024-12-27 01:01:41 +0000",
+      "minecraft:endermite": "2024-12-27 03:41:40 +0000",
       "minecraft:vex": "2024-11-11 03:21:04 +0000",
       "minecraft:zombie": "2024-11-10 23:47:58 +0000",
       "minecraft:zombie_villager": "2024-11-11 02:01:30 +0000"
@@ -4057,6 +4058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-12-27 03:46:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-27 01:45:09 +0000"
@@ -4213,6 +4220,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2024-12-27 03:46:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/gray_sleeping_bag": {
     "criteria": {
       "has_gray_wool": "2024-12-27 01:45:09 +0000"
@@ -4237,9 +4250,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2024-12-27 03:39:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2024-12-27 01:45:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2024-12-27 03:36:03 +0000"
     },
     "done": true
   },

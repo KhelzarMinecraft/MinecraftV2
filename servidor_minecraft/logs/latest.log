@@ -185,3 +185,9 @@
 [27Dec2024 03:30:32.742] [Worker-Main-66/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1455, y=24, z=-898}
 [27Dec2024 03:30:32.742] [Worker-Main-66/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-1455, 24, -898)
 [27Dec2024 03:30:32.742] [Worker-Main-66/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1455, y=24, z=-898}
+[27Dec2024 03:34:18.675] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:stronghold/stronghold_generic_complex
+[27Dec2024 03:34:18.680] [Worker-Main-66/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:stronghold/stronghold_generic_complex
+[27Dec2024 03:36:03.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [Eye Spy]
+[27Dec2024 03:36:09.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[27Dec2024 03:36:09.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita has made the advancement [Eye Spy]
+[27Dec2024 03:38:23.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the time to 1000]
