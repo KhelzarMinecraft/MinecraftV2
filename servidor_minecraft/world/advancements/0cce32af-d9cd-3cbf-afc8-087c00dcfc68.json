@@ -4353,9 +4353,21 @@
     },
     "done": true
   },
+  "minecraft:nether/distract_piglin": {
+    "criteria": {
+      "distract_piglin": "2024-12-27 14:15:56 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/keypad_item": {
     "criteria": {
       "has_stone_button": "2024-12-27 14:11:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane": {
+    "criteria": {
+      "has_glass": "2024-12-27 14:21:30 +0000"
     },
     "done": true
   },
