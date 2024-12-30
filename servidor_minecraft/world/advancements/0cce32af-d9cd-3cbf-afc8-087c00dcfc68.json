@@ -4371,15 +4371,39 @@
     },
     "done": true
   },
-  "mekanism:sawmill": {
+  "mekanism:root": {
     "criteria": {
-      "precision_sawmill": "2024-12-30 15:16:14 +0000"
+      "automatic": "2024-12-30 14:56:37 +0000"
     },
     "done": true
   },
-  "mekanism:modification_station": {
+  "refinedstorage:connecting": {
     "criteria": {
-      "modification_station": "2024-12-30 15:18:28 +0000"
+      "cable_in_inventory": "2024-12-30 15:01:57 +0000"
+    },
+    "done": true
+  },
+  "mekanism:factory": {
+    "criteria": {
+      "factory": "2024-12-30 15:07:04 +0000"
+    },
+    "done": true
+  },
+  "mekanism:metallurgic_infuser": {
+    "criteria": {
+      "metallurgic_infuser": "2024-12-30 15:07:28 +0000"
+    },
+    "done": true
+  },
+  "mekanism:simple_mass_storage": {
+    "criteria": {
+      "basic_bin": "2024-12-30 15:14:01 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2024-12-30 15:14:59 +0000"
     },
     "done": true
   },
@@ -4395,6 +4419,12 @@
     },
     "done": true
   },
+  "mekanism:sawmill": {
+    "criteria": {
+      "precision_sawmill": "2024-12-30 15:16:14 +0000"
+    },
+    "done": true
+  },
   "mekanism:chemical_crystallizer": {
     "criteria": {
       "chemical_dissolution_chamber": "2024-12-30 15:16:15 +0000",
@@ -4403,15 +4433,106 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
+  "mekanism:auto_collection": {
     "criteria": {
-      "has_planks": "2024-12-30 15:42:37 +0000"
+      "laser_tractor_beam": "2024-12-30 15:18:15 +0000"
     },
     "done": true
   },
-  "mekanism:factory": {
+  "mekanism:quantum_entangloporter": {
     "criteria": {
-      "factory": "2024-12-30 15:07:04 +0000"
+      "quantum_entangloporter": "2024-12-30 15:18:16 +0000"
+    },
+    "done": true
+  },
+  "mekanism:automated_crafting": {
+    "criteria": {
+      "formulaic_assemblicator": "2024-12-30 15:18:23 +0000"
+    },
+    "done": true
+  },
+  "mekanism:modification_station": {
+    "criteria": {
+      "modification_station": "2024-12-30 15:18:28 +0000"
+    },
+    "done": true
+  },
+  "mekanism:nucleosynthesizer": {
+    "criteria": {
+      "antiprotonic_nucleosynthesizer": "2024-12-30 15:18:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:painting_machine": {
+    "criteria": {
+      "painting_machine": "2024-12-30 15:19:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:sps": {
+    "criteria": {
+      "sps_casing": "2024-12-30 15:19:31 +0000",
+      "sps_port": "2024-12-30 15:19:32 +0000"
+    },
+    "done": true
+  },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "dimensional_stabilizer": "2024-12-30 15:19:35 +0000"
+    },
+    "done": false
+  },
+  "mekanism:qio_drive_array": {
+    "criteria": {
+      "qio_drive_array": "2024-12-30 15:19:37 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2024-12-30 15:19:40 +0000"
+    },
+    "done": true
+  },
+  "mekanism:sna": {
+    "criteria": {
+      "solar_neutron_activator": "2024-12-30 15:27:46 +0000"
+    },
+    "done": true
+  },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2024-12-30 15:32:29 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-12-30 15:42:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 15:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 15:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 15:42:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:42:37 +0000"
     },
     "done": true
   },
@@ -4439,18 +4560,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/lightning_rod": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-30 15:42:29 +0000"
-    },
-    "done": true
-  },
-  "mekanism:root": {
-    "criteria": {
-      "automatic": "2024-12-30 14:56:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-30 15:42:37 +0000"
@@ -4463,76 +4572,9 @@
     },
     "done": true
   },
-  "mekanism:logistical_sorter": {
-    "criteria": {
-      "logistical_sorter": "2024-12-30 15:32:29 +0000"
-    },
-    "done": true
-  },
-  "mekanism:quantum_entangloporter": {
-    "criteria": {
-      "quantum_entangloporter": "2024-12-30 15:18:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-30 15:42:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/copper_block": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-30 15:42:29 +0000"
-    },
-    "done": true
-  },
-  "mekanism:energy_cube": {
-    "criteria": {
-      "basic_energy_cube": "2024-12-30 15:19:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/brush": {
-    "criteria": {
-      "has_copper_ingot": "2024-12-30 15:42:29 +0000"
-    },
-    "done": true
-  },
-  "mekanism:auto_collection": {
-    "criteria": {
-      "laser_tractor_beam": "2024-12-30 15:18:15 +0000"
-    },
-    "done": true
-  },
-  "mekanism:sps": {
-    "criteria": {
-      "sps_casing": "2024-12-30 15:19:31 +0000",
-      "sps_port": "2024-12-30 15:19:32 +0000"
-    },
-    "done": true
-  },
-  "mekanism:sna": {
-    "criteria": {
-      "solar_neutron_activator": "2024-12-30 15:27:46 +0000"
-    },
-    "done": true
-  },
-  "mekanism:qio_drive_array": {
-    "criteria": {
-      "qio_drive_array": "2024-12-30 15:19:37 +0000"
-    },
-    "done": true
-  },
-  "mekanism:metallurgic_infuser": {
-    "criteria": {
-      "metallurgic_infuser": "2024-12-30 15:07:28 +0000"
-    },
-    "done": true
-  },
-  "mekanism:simple_mass_storage": {
-    "criteria": {
-      "basic_bin": "2024-12-30 15:14:01 +0000"
     },
     "done": true
   },
@@ -4542,51 +4584,142 @@
     },
     "done": true
   },
-  "mekanism:materials": {
-    "criteria": {
-      "material": "2024-12-30 15:42:15 +0000"
-    },
-    "done": true
-  },
-  "mekanism:nucleosynthesizer": {
-    "criteria": {
-      "antiprotonic_nucleosynthesizer": "2024-12-30 15:18:31 +0000"
-    },
-    "done": true
-  },
-  "mekanism:enricher": {
-    "criteria": {
-      "enrichment_chamber": "2024-12-30 15:14:59 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-30 15:42:37 +0000"
     },
     "done": true
   },
-  "mekanism:stabilizing_chunks": {
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
-      "dimensional_stabilizer": "2024-12-30 15:19:35 +0000"
-    },
-    "done": false
-  },
-  "refinedstorage:connecting": {
-    "criteria": {
-      "cable_in_inventory": "2024-12-30 15:01:57 +0000"
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
     },
     "done": true
   },
-  "mekanism:painting_machine": {
+  "toms_storage:unlock_glowstone": {
     "criteria": {
-      "painting_machine": "2024-12-30 15:19:30 +0000"
+      "inv_changed-glowstone": "2024-12-30 16:04:44 +0000"
     },
     "done": true
   },
-  "mekanism:automated_crafting": {
+  "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
-      "formulaic_assemblicator": "2024-12-30 15:18:23 +0000"
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-12-30 16:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-12-30 16:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-12-30 16:04:44 +0000",
+      "inv_changed-diamond": "2024-12-30 16:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
     },
     "done": true
   },
