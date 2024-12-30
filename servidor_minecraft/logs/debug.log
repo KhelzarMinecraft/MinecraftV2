@@ -5702,3 +5702,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [30Dec2024 15:32:29.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has reached the goal [Pick and Place]
 [30Dec2024 15:33:05.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 15:33:05.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:38:05.683] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:38:05.692] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:43:05.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:43:05.690] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:46:50.310] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Khelzar lost connection: Disconnected
+[30Dec2024 15:46:50.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar left the game
+[30Dec2024 15:48:05.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:48:05.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

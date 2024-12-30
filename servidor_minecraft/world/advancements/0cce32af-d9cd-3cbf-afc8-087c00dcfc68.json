@@ -4403,15 +4403,63 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:42:37 +0000"
+    },
+    "done": true
+  },
   "mekanism:factory": {
     "criteria": {
       "factory": "2024-12-30 15:07:04 +0000"
     },
     "done": true
   },
+  "exlinefurniture:recipes/misc/birch": {
+    "criteria": {
+      "has_ingredient": "2024-12-30 15:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_door": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_fence": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_sign": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 15:42:29 +0000"
+    },
+    "done": true
+  },
   "mekanism:root": {
     "criteria": {
       "automatic": "2024-12-30 14:56:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_slab": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:42:37 +0000"
     },
     "done": true
   },
@@ -4427,9 +4475,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:42:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 15:42:29 +0000"
+    },
+    "done": true
+  },
   "mekanism:energy_cube": {
     "criteria": {
       "basic_energy_cube": "2024-12-30 15:19:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2024-12-30 15:42:29 +0000"
     },
     "done": true
   },
@@ -4470,6 +4536,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:42:37 +0000"
+    },
+    "done": true
+  },
+  "mekanism:materials": {
+    "criteria": {
+      "material": "2024-12-30 15:42:15 +0000"
+    },
+    "done": true
+  },
   "mekanism:nucleosynthesizer": {
     "criteria": {
       "antiprotonic_nucleosynthesizer": "2024-12-30 15:18:31 +0000"
@@ -4479,6 +4557,12 @@
   "mekanism:enricher": {
     "criteria": {
       "enrichment_chamber": "2024-12-30 15:14:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-30 15:42:37 +0000"
     },
     "done": true
   },
