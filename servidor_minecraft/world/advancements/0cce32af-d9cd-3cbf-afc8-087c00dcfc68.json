@@ -4371,6 +4371,38 @@
     },
     "done": true
   },
+  "mekanism:sawmill": {
+    "criteria": {
+      "precision_sawmill": "2024-12-30 15:16:14 +0000"
+    },
+    "done": true
+  },
+  "mekanism:modification_station": {
+    "criteria": {
+      "modification_station": "2024-12-30 15:18:28 +0000"
+    },
+    "done": true
+  },
+  "mekanism:digital_miner": {
+    "criteria": {
+      "digital_miner": "2024-12-30 15:15:10 +0000"
+    },
+    "done": true
+  },
+  "mekanism:purification_chamber": {
+    "criteria": {
+      "purification_chamber": "2024-12-30 15:15:14 +0000"
+    },
+    "done": true
+  },
+  "mekanism:chemical_crystallizer": {
+    "criteria": {
+      "chemical_dissolution_chamber": "2024-12-30 15:16:15 +0000",
+      "chemical_crystallizer": "2024-12-30 15:16:19 +0000",
+      "chemical_washer": "2024-12-30 15:16:17 +0000"
+    },
+    "done": true
+  },
   "mekanism:factory": {
     "criteria": {
       "factory": "2024-12-30 15:07:04 +0000"
@@ -4383,15 +4415,82 @@
     },
     "done": true
   },
+  "mekanism:quantum_entangloporter": {
+    "criteria": {
+      "quantum_entangloporter": "2024-12-30 15:18:16 +0000"
+    },
+    "done": true
+  },
+  "mekanism:energy_cube": {
+    "criteria": {
+      "basic_energy_cube": "2024-12-30 15:19:40 +0000"
+    },
+    "done": true
+  },
+  "mekanism:auto_collection": {
+    "criteria": {
+      "laser_tractor_beam": "2024-12-30 15:18:15 +0000"
+    },
+    "done": true
+  },
+  "mekanism:sps": {
+    "criteria": {
+      "sps_casing": "2024-12-30 15:19:31 +0000",
+      "sps_port": "2024-12-30 15:19:32 +0000"
+    },
+    "done": true
+  },
+  "mekanism:qio_drive_array": {
+    "criteria": {
+      "qio_drive_array": "2024-12-30 15:19:37 +0000"
+    },
+    "done": true
+  },
   "mekanism:metallurgic_infuser": {
     "criteria": {
       "metallurgic_infuser": "2024-12-30 15:07:28 +0000"
     },
     "done": true
   },
+  "mekanism:simple_mass_storage": {
+    "criteria": {
+      "basic_bin": "2024-12-30 15:14:01 +0000"
+    },
+    "done": true
+  },
+  "mekanism:nucleosynthesizer": {
+    "criteria": {
+      "antiprotonic_nucleosynthesizer": "2024-12-30 15:18:31 +0000"
+    },
+    "done": true
+  },
+  "mekanism:enricher": {
+    "criteria": {
+      "enrichment_chamber": "2024-12-30 15:14:59 +0000"
+    },
+    "done": true
+  },
+  "mekanism:stabilizing_chunks": {
+    "criteria": {
+      "dimensional_stabilizer": "2024-12-30 15:19:35 +0000"
+    },
+    "done": false
+  },
   "refinedstorage:connecting": {
     "criteria": {
       "cable_in_inventory": "2024-12-30 15:01:57 +0000"
+    },
+    "done": true
+  },
+  "mekanism:painting_machine": {
+    "criteria": {
+      "painting_machine": "2024-12-30 15:19:30 +0000"
+    },
+    "done": true
+  },
+  "mekanism:automated_crafting": {
+    "criteria": {
+      "formulaic_assemblicator": "2024-12-30 15:18:23 +0000"
     },
     "done": true
   },
