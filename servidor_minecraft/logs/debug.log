@@ -5661,3 +5661,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [30Dec2024 14:56:38.813] [Server thread/DEBUG] [mixin/]: Mixing boat.VanillaInventoryCodeHooksMixin from securitycraft.mixins.json into net.minecraftforge.items.VanillaInventoryCodeHooks
 [30Dec2024 14:56:38.813] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0(Lnet/geforcemods/securitycraft/entity/SecuritySeaBoat;Lnet/minecraftforge/items/IItemHandler;)Lorg/apache/commons/lang3/tuple/Pair; to mddb1935$lambda$securitycraft$callGetCapabilityForSecuritySeaBoat$0$0 in securitycraft.mixins.json:boat.VanillaInventoryCodeHooksMixin
 [30Dec2024 14:56:38.862] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0xe48c4cc452442eff
+[30Dec2024 14:58:05.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 14:58:05.728] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:01:13.118] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-60, y=89, z=-228} changed running state to true, causing an invalidation of the node graph
+[30Dec2024 15:01:32.324] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.storage.StorageNetworkNode/]: Connectivity state of item storage block at BlockPos{x=-59, y=89, z=-228} changed to true due to GRAPH_CHANGE
+[30Dec2024 15:01:32.324] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-60, y=89, z=-228} due to CONNECTED_STATE_CHANGED
+[30Dec2024 15:01:32.572] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-60, y=89, z=-228} changed running state to false, causing an invalidation of the node graph
+[30Dec2024 15:01:33.079] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.storage.StorageNetworkNode/]: Connectivity state of item storage block at BlockPos{x=-59, y=89, z=-228} changed to false due to GRAPH_CHANGE
+[30Dec2024 15:01:33.079] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-60, y=89, z=-228} due to CONNECTED_STATE_CHANGED
+[30Dec2024 15:01:34.113] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-60, y=89, z=-228} changed running state to true, causing an invalidation of the node graph
+[30Dec2024 15:01:57.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [Connecting]
+[30Dec2024 15:02:02.045] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.storage.StorageNetworkNode/]: Connectivity state of item storage block at BlockPos{x=-58, y=89, z=-228} changed to true due to GRAPH_CHANGE
+[30Dec2024 15:02:02.045] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-60, y=89, z=-228} due to CONNECTED_STATE_CHANGED
+[30Dec2024 15:02:02.275] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-60, y=89, z=-228} changed running state to false, causing an invalidation of the node graph
+[30Dec2024 15:02:09.521] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.node.storage.StorageNetworkNode/]: Connectivity state of item storage block at BlockPos{x=-58, y=89, z=-228} changed to false due to GRAPH_CHANGE
+[30Dec2024 15:02:09.522] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.storage.cache.ItemStorageCache/]: Invalidating item storage cache of network at position BlockPos{x=-60, y=89, z=-228} due to CONNECTED_STATE_CHANGED
+[30Dec2024 15:02:10.570] [Server thread/DEBUG] [com.refinedmods.refinedstorage.apiimpl.network.Network/]: Network at position BlockPos{x=-60, y=89, z=-228} changed running state to true, causing an invalidation of the node graph
+[30Dec2024 15:03:05.722] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:03:05.732] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:07:04.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has reached the goal [The Factory Must Grow!]
+[30Dec2024 15:07:28.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [A Metallur-what?]
+[30Dec2024 15:08:05.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:08:05.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:13:05.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:13:05.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:14:59.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [Getting More From Less]
+[30Dec2024 15:15:10.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has reached the goal [Trapped Inside]
+[30Dec2024 15:16:19.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has completed the challenge [The Most Bang for Your Buck]

@@ -2247,3 +2247,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [30Dec2024 14:56:37.204] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Khelzar[/127.127.152.232:41859] logged in with entity id 72 at (-51.69423195500605, 89.0, -239.38610895265998)
 [30Dec2024 14:56:37.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar joined the game
 [30Dec2024 14:56:37.306] [Server thread/INFO] [Jade/]: Syncing config to Khelzar (0cce32af-d9cd-3cbf-afc8-087c00dcfc68)
+[30Dec2024 15:01:57.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [Connecting]
+[30Dec2024 15:07:04.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has reached the goal [The Factory Must Grow!]
+[30Dec2024 15:07:28.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [A Metallur-what?]
+[30Dec2024 15:14:59.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [Getting More From Less]
+[30Dec2024 15:15:10.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has reached the goal [Trapped Inside]
+[30Dec2024 15:16:19.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has completed the challenge [The Most Bang for Your Buck]
