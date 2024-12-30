@@ -4590,15 +4590,34 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
-    "criteria": {
-      "has_blackstone": "2024-12-30 16:13:04 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_glowstone": {
     "criteria": {
       "inv_changed-glowstone": "2024-12-30 16:04:44 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2024-12-30 16:04:44 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2024-12-30 16:04:44 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2024-12-30 16:04:44 +0000",
+      "inv_changed-diamond": "2024-12-30 16:04:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-30 16:13:04 +0000"
     },
     "done": true
   },
@@ -4620,12 +4639,6 @@
     },
     "done": true
   },
-  "toms_storage:unlock_netherite": {
-    "criteria": {
-      "inv_changed-netherite": "2024-12-30 16:04:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-30 16:13:04 +0000"
@@ -4635,12 +4648,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 16:13:04 +0000"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_chest": {
-    "criteria": {
-      "inv_changed-chest": "2024-12-30 16:04:44 +0000"
     },
     "done": true
   },
@@ -4683,13 +4690,6 @@
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2024-12-30 16:13:04 +0000"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_dia_pearl": {
-    "criteria": {
-      "inv_changed-ender_pearl": "2024-12-30 16:04:44 +0000",
-      "inv_changed-diamond": "2024-12-30 16:04:44 +0000"
     },
     "done": true
   },

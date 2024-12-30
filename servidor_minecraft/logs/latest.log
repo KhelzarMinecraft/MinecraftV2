@@ -1067,3 +1067,284 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [30Dec2024 20:21:57.710] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
 [30Dec2024 20:22:57.704] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita lost connection: Disconnected
 [30Dec2024 20:22:57.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita left the game
+[30Dec2024 23:47:37.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /advancement (grant|revoke)
+[30Dec2024 23:47:37.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /attribute <target> <attribute> (get|base|modifier)
+[30Dec2024 23:47:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /execute (run|if|unless|as|at|store|positioned|rotated|facing|align|anchored|in|summon|on)
+[30Dec2024 23:47:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /bossbar (add|remove|list|set|get)
+[30Dec2024 23:47:37.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clear [<targets>]
+[30Dec2024 23:47:37.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clone (<begin>|from)
+[30Dec2024 23:47:37.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /damage <target> <amount> [<damageType>]
+[30Dec2024 23:47:37.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /data (merge|get|remove|modify)
+[30Dec2024 23:47:37.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /datapack (enable|disable|list)
+[30Dec2024 23:47:37.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /debug (start|stop|function)
+[30Dec2024 23:47:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /defaultgamemode <gamemode>
+[30Dec2024 23:47:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /difficulty [peaceful|easy|normal|hard]
+[30Dec2024 23:47:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /effect (clear|give)
+[30Dec2024 23:47:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /me <action>
+[30Dec2024 23:47:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /enchant <targets> <enchantment> [<level>]
+[30Dec2024 23:47:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /experience (add|set|query)
+[30Dec2024 23:47:37.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /xp -> experience
+[30Dec2024 23:47:37.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fill <from> <to> <block> [replace|keep|outline|hollow|destroy]
+[30Dec2024 23:47:37.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fillbiome <from> <to> <biome> [replace]
+[30Dec2024 23:47:37.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forceload (add|remove|query)
+[30Dec2024 23:47:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /function <name>
+[30Dec2024 23:47:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamemode <gamemode> [<target>]
+[30Dec2024 23:47:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gamerule (announceAdvancements|blockExplosionDropDecay|commandBlockOutput|commandModificationBlockLimit|disableElytraMovementCheck|disableRaids|doDaylightCycle|doEntityDrops|doFireTick|doImmediateRespawn|doInsomnia|doLimitedCrafting|doMobLoot|doMobSpawning|doPatrolSpawning|doTileDrops|doTraderSpawning|doVinesSpread|doWardenSpawning|doWeatherCycle|drowningDamage|fakeLavaSourceConversion|fakeWaterSourceConversion|fallDamage|fireDamage|forgiveDeadPlayers|freezeDamage|globalSoundEvents|keepInventory|lavaSourceConversion|logAdminCommands|maxCommandChainLength|maxEntityCramming|mobExplosionDropDecay|mobGriefing|naturalRegeneration|playersSleepingPercentage|randomTickSpeed|reducedDebugInfo|sendCommandFeedback|showDeathMessages|snowAccumulationHeight|spawnRadius|spectatorsGenerateChunks|tntExplosionDropDecay|universalAnger|waterSourceConversion)
+[30Dec2024 23:47:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /give <targets> <item> [<count>]
+[30Dec2024 23:47:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /help [<command>]
+[30Dec2024 23:47:37.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /item (replace|modify)
+[30Dec2024 23:47:37.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kick <targets> [<reason>]
+[30Dec2024 23:47:37.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /kill [<targets>]
+[30Dec2024 23:47:37.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /list [uuids]
+[30Dec2024 23:47:37.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /locate (structure|biome|poi)
+[30Dec2024 23:47:37.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /loot (replace|insert|give|spawn)
+[30Dec2024 23:47:37.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /msg <targets> <message>
+[30Dec2024 23:47:37.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tell -> msg
+[30Dec2024 23:47:37.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /w -> msg
+[30Dec2024 23:47:37.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /particle <name> [<pos>]
+[30Dec2024 23:47:37.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /place (feature|jigsaw|structure|template)
+[30Dec2024 23:47:37.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /playsound <sound> (master|music|record|weather|block|hostile|neutral|player|ambient|voice)
+[30Dec2024 23:47:37.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /reload
+[30Dec2024 23:47:37.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /recipe (give|take)
+[30Dec2024 23:47:37.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /return <value>
+[30Dec2024 23:47:37.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ride <target> (mount|dismount)
+[30Dec2024 23:47:37.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /say <message>
+[30Dec2024 23:47:37.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schedule (function|clear)
+[30Dec2024 23:47:37.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /scoreboard (objectives|players)
+[30Dec2024 23:47:37.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /seed
+[30Dec2024 23:47:37.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setblock <pos> <block> [destroy|keep|replace]
+[30Dec2024 23:47:37.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spawnpoint [<targets>]
+[30Dec2024 23:47:37.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setworldspawn [<pos>]
+[30Dec2024 23:47:37.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spectate [<target>]
+[30Dec2024 23:47:37.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /spreadplayers <center> <spreadDistance> <maxRange> (<respectTeams>|under)
+[30Dec2024 23:47:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stopsound <targets> [*|master|music|record|weather|block|hostile|neutral|player|ambient|voice]
+[30Dec2024 23:47:37.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /summon <entity> [<pos>]
+[30Dec2024 23:47:37.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tag <targets> (add|remove|list)
+[30Dec2024 23:47:37.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /team (list|add|remove|empty|join|leave|modify)
+[30Dec2024 23:47:37.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teammsg <message>
+[30Dec2024 23:47:37.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tm -> teammsg
+[30Dec2024 23:47:37.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /teleport (<location>|<destination>|<targets>)
+[30Dec2024 23:47:37.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tp -> teleport
+[30Dec2024 23:47:37.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tellraw <targets> <message>
+[30Dec2024 23:47:37.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /time (set|add|query)
+[30Dec2024 23:47:37.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /title <targets> (clear|reset|title|subtitle|actionbar|times)
+[30Dec2024 23:47:37.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /trigger <objective> [add|set]
+[30Dec2024 23:47:37.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /weather (clear|rain|thunder)
+[30Dec2024 23:47:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldborder (add|set|center|damage|get|warning)
+[30Dec2024 23:47:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jfr (start|stop)
+[30Dec2024 23:47:37.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban-ip <target> [<reason>]
+[30Dec2024 23:47:37.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /banlist [ips|players]
+[30Dec2024 23:47:37.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ban <targets> [<reason>]
+[30Dec2024 23:47:37.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deop <targets>
+[30Dec2024 23:47:37.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /op <targets>
+[30Dec2024 23:47:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon <targets>
+[30Dec2024 23:47:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pardon-ip <target>
+[30Dec2024 23:47:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /perf (start|stop)
+[30Dec2024 23:47:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-all [flush]
+[30Dec2024 23:47:37.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-off
+[30Dec2024 23:47:37.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /save-on
+[30Dec2024 23:47:37.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /setidletimeout <minutes>
+[30Dec2024 23:47:37.651] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /stop
+[30Dec2024 23:47:37.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /whitelist (on|off|list|add|remove|reload)
+[30Dec2024 23:47:37.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jade (show|hide)
+[30Dec2024 23:47:37.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /livingthings <type>
+[30Dec2024 23:47:37.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /simplybackpacks (list|recover|open|delete)
+[30Dec2024 23:47:37.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sb -> simplybackpacks
+[30Dec2024 23:47:37.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sc (bug|connect|convert|dump|help|owner)
+[30Dec2024 23:47:37.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /securitycraft (bug|connect|convert|dump|help|owner)
+[30Dec2024 23:47:37.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /replacenear [<args>]
+[30Dec2024 23:47:37.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //replacenear [<args>]
+[30Dec2024 23:47:37.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /.s [<args>]
+[30Dec2024 23:47:37.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /lrbuild [<args>]
+[30Dec2024 23:47:37.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //lrbuild [<args>]
+[30Dec2024 23:47:37.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //stack [<args>]
+[30Dec2024 23:47:37.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //overlay [<args>]
+[30Dec2024 23:47:37.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //shift [<args>]
+[30Dec2024 23:47:37.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /searchitem [<args>]
+[30Dec2024 23:47:37.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //searchitem [<args>]
+[30Dec2024 23:47:37.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //l [<args>]
+[30Dec2024 23:47:37.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //search [<args>]
+[30Dec2024 23:47:37.661] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /toggleeditwand [<args>]
+[30Dec2024 23:47:37.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /none [<args>]
+[30Dec2024 23:47:37.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /gmask [<args>]
+[30Dec2024 23:47:37.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //gmask [<args>]
+[30Dec2024 23:47:37.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /selwand [<args>]
+[30Dec2024 23:47:37.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //selwand [<args>]
+[30Dec2024 23:47:37.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /removeabove [<args>]
+[30Dec2024 23:47:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //removeabove [<args>]
+[30Dec2024 23:47:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pumpkins [<args>]
+[30Dec2024 23:47:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //outset [<args>]
+[30Dec2024 23:47:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /navwand [<args>]
+[30Dec2024 23:47:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //navwand [<args>]
+[30Dec2024 23:47:37.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //generate [<args>]
+[30Dec2024 23:47:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //gen [<args>]
+[30Dec2024 23:47:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //g [<args>]
+[30Dec2024 23:47:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //replace [<args>]
+[30Dec2024 23:47:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //re [<args>]
+[30Dec2024 23:47:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //rep [<args>]
+[30Dec2024 23:47:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //faces [<args>]
+[30Dec2024 23:47:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //outline [<args>]
+[30Dec2024 23:47:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //deform [<args>]
+[30Dec2024 23:47:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /biomelist [<args>]
+[30Dec2024 23:47:37.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /biomels [<args>]
+[30Dec2024 23:47:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /green [<args>]
+[30Dec2024 23:47:37.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //green [<args>]
+[30Dec2024 23:47:37.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /extinguish [<args>]
+[30Dec2024 23:47:37.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //ex [<args>]
+[30Dec2024 23:47:37.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //ext [<args>]
+[30Dec2024 23:47:37.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //extinguish [<args>]
+[30Dec2024 23:47:37.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ex [<args>]
+[30Dec2024 23:47:37.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ext [<args>]
+[30Dec2024 23:47:37.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /unstuck [<args>]
+[30Dec2024 23:47:37.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /! [<args>]
+[30Dec2024 23:47:37.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /farwand [<args>]
+[30Dec2024 23:47:37.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /removenear [<args>]
+[30Dec2024 23:47:37.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //removenear [<args>]
+[30Dec2024 23:47:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ceil [<args>]
+[30Dec2024 23:47:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //smooth [<args>]
+[30Dec2024 23:47:37.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: // [<args>]
+[30Dec2024 23:47:37.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /, [<args>]
+[30Dec2024 23:47:37.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /floodfill [<args>]
+[30Dec2024 23:47:37.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /flood [<args>]
+[30Dec2024 23:47:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //cyl [<args>]
+[30Dec2024 23:47:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //watchdog [<args>]
+[30Dec2024 23:47:37.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /superpickaxe [<args>]
+[30Dec2024 23:47:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /pickaxe [<args>]
+[30Dec2024 23:47:37.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /sp [<args>]
+[30Dec2024 23:47:37.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /size [<args>]
+[30Dec2024 23:47:37.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //generatebiome [<args>]
+[30Dec2024 23:47:37.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //genbiome [<args>]
+[30Dec2024 23:47:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //gb [<args>]
+[30Dec2024 23:47:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /material [<args>]
+[30Dec2024 23:47:37.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //material [<args>]
+[30Dec2024 23:47:37.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //naturalize [<args>]
+[30Dec2024 23:47:37.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //world [<args>]
+[30Dec2024 23:47:37.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //help [<args>]
+[30Dec2024 23:47:37.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //hcyl [<args>]
+[30Dec2024 23:47:37.679] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //sel [<args>]
+[30Dec2024 23:47:37.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /; [<args>]
+[30Dec2024 23:47:37.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //desel [<args>]
+[30Dec2024 23:47:37.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //deselect [<args>]
+[30Dec2024 23:47:37.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clearhistory [<args>]
+[30Dec2024 23:47:37.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //clearhistory [<args>]
+[30Dec2024 23:47:37.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /snapshot [<args>]
+[30Dec2024 23:47:37.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /snap [<args>]
+[30Dec2024 23:47:37.682] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /toggleplace [<args>]
+[30Dec2024 23:47:37.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //toggleplace [<args>]
+[30Dec2024 23:47:37.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forestgen [<args>]
+[30Dec2024 23:47:37.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schematic [<args>]
+[30Dec2024 23:47:37.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /schem [<args>]
+[30Dec2024 23:47:37.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //schematic [<args>]
+[30Dec2024 23:47:37.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //schem [<args>]
+[30Dec2024 23:47:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //move [<args>]
+[30Dec2024 23:47:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //chunk [<args>]
+[30Dec2024 23:47:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /range [<args>]
+[30Dec2024 23:47:37.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //paste [<args>]
+[30Dec2024 23:47:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /brush [<args>]
+[30Dec2024 23:47:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /br [<args>]
+[30Dec2024 23:47:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //brush [<args>]
+[30Dec2024 23:47:37.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //br [<args>]
+[30Dec2024 23:47:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //hsphere [<args>]
+[30Dec2024 23:47:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //perf [<args>]
+[30Dec2024 23:47:37.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //timeout [<args>]
+[30Dec2024 23:47:37.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //rotate [<args>]
+[30Dec2024 23:47:37.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /deltree [<args>]
+[30Dec2024 23:47:37.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /repl [<args>]
+[30Dec2024 23:47:37.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //distr [<args>]
+[30Dec2024 23:47:37.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /remove [<args>]
+[30Dec2024 23:47:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /rem [<args>]
+[30Dec2024 23:47:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /rement [<args>]
+[30Dec2024 23:47:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /undo [<args>]
+[30Dec2024 23:47:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //undo [<args>]
+[30Dec2024 23:47:37.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //sphere [<args>]
+[30Dec2024 23:47:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /descend [<args>]
+[30Dec2024 23:47:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /desc [<args>]
+[30Dec2024 23:47:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //inset [<args>]
+[30Dec2024 23:47:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //wand [<args>]
+[30Dec2024 23:47:37.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //reorder [<args>]
+[30Dec2024 23:47:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /redo [<args>]
+[30Dec2024 23:47:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //redo [<args>]
+[30Dec2024 23:47:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fixwater [<args>]
+[30Dec2024 23:47:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //fixwater [<args>]
+[30Dec2024 23:47:37.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /worldedit [<args>]
+[30Dec2024 23:47:37.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /we [<args>]
+[30Dec2024 23:47:37.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /jumpto [<args>]
+[30Dec2024 23:47:37.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /j [<args>]
+[30Dec2024 23:47:37.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //line [<args>]
+[30Dec2024 23:47:37.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /fixlava [<args>]
+[30Dec2024 23:47:37.692] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //fixlava [<args>]
+[30Dec2024 23:47:37.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /biomeinfo [<args>]
+[30Dec2024 23:47:37.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /chunkinfo [<args>]
+[30Dec2024 23:47:37.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /ascend [<args>]
+[30Dec2024 23:47:37.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /asc [<args>]
+[30Dec2024 23:47:37.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cs [<args>]
+[30Dec2024 23:47:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //size [<args>]
+[30Dec2024 23:47:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /thru [<args>]
+[30Dec2024 23:47:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //fillr [<args>]
+[30Dec2024 23:47:37.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //contract [<args>]
+[30Dec2024 23:47:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tracemask [<args>]
+[30Dec2024 23:47:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /removebelow [<args>]
+[30Dec2024 23:47:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //removebelow [<args>]
+[30Dec2024 23:47:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /butcher [<args>]
+[30Dec2024 23:47:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //flora [<args>]
+[30Dec2024 23:47:37.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cycler [<args>]
+[30Dec2024 23:47:37.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //calculate [<args>]
+[30Dec2024 23:47:37.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //calc [<args>]
+[30Dec2024 23:47:37.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //eval [<args>]
+[30Dec2024 23:47:37.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //evaluate [<args>]
+[30Dec2024 23:47:37.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //solve [<args>]
+[30Dec2024 23:47:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /thaw [<args>]
+[30Dec2024 23:47:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //thaw [<args>]
+[30Dec2024 23:47:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /up [<args>]
+[30Dec2024 23:47:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //count [<args>]
+[30Dec2024 23:47:37.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /info [<args>]
+[30Dec2024 23:47:37.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /listchunks [<args>]
+[30Dec2024 23:47:37.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //hpyramid [<args>]
+[30Dec2024 23:47:37.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //cut [<args>]
+[30Dec2024 23:47:37.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //forest [<args>]
+[30Dec2024 23:47:37.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tree [<args>]
+[30Dec2024 23:47:37.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tool [<args>]
+[30Dec2024 23:47:37.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //center [<args>]
+[30Dec2024 23:47:37.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //middle [<args>]
+[30Dec2024 23:47:37.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /snow [<args>]
+[30Dec2024 23:47:37.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //snow [<args>]
+[30Dec2024 23:47:37.702] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //setbiome [<args>]
+[30Dec2024 23:47:37.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //limit [<args>]
+[30Dec2024 23:47:37.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restore [<args>|<target>]
+[30Dec2024 23:47:37.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //restore [<args>]
+[30Dec2024 23:47:37.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //pyramid [<args>]
+[30Dec2024 23:47:37.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //drain [<args>]
+[30Dec2024 23:47:37.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //set [<args>]
+[30Dec2024 23:47:37.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //pos1 [<args>]
+[30Dec2024 23:47:37.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //regen [<args>]
+[30Dec2024 23:47:37.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //pos2 [<args>]
+[30Dec2024 23:47:37.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //fast [<args>]
+[30Dec2024 23:47:37.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //hollow [<args>]
+[30Dec2024 23:47:37.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //hpos2 [<args>]
+[30Dec2024 23:47:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //hpos1 [<args>]
+[30Dec2024 23:47:37.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //flip [<args>]
+[30Dec2024 23:47:37.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //drawsel [<args>]
+[30Dec2024 23:47:37.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mask [<args>]
+[30Dec2024 23:47:37.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //copy [<args>]
+[30Dec2024 23:47:37.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /delchunks [<args>]
+[30Dec2024 23:47:37.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //expand [<args>]
+[30Dec2024 23:47:37.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /clearclipboard [<args>]
+[30Dec2024 23:47:37.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //walls [<args>]
+[30Dec2024 23:47:37.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //fill [<args>]
+[30Dec2024 23:47:37.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: //curve [<args>]
+[30Dec2024 23:47:37.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /tb (access|restore|remove|clear|unpack)
+[30Dec2024 23:47:37.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /config showfile <mod> <type>
+[30Dec2024 23:47:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /mek (chunk|debug|retrogen|radiation|testrules)
+[30Dec2024 23:47:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /refinedstorage (pattern|disk|network)
+[30Dec2024 23:47:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /forge (tps|track|entity|generate|dimensions|mods|tags)
+[30Dec2024 23:47:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /revive <players>
+[30Dec2024 23:47:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /open-patchouli-book <targets> <book> [<entry>]
+[30Dec2024 23:47:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /restoreinventory -> restore
+[30Dec2024 23:47:37.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /waypoint (create|delete)
+[30Dec2024 23:47:37.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /wp -> waypoint
+[30Dec2024 23:47:37.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /undo_excavation
+[30Dec2024 23:47:37.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: /cmdconfig
+[30Dec2024 23:51:55.495] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Khelzar[/127.127.152.232:49639] logged in with entity id 515 at (-619.5, 83.0, -1664.5)
+[30Dec2024 23:51:55.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar joined the game
+[30Dec2024 23:51:55.702] [Server thread/INFO] [Jade/]: Syncing config to Khelzar (0cce32af-d9cd-3cbf-afc8-087c00dcfc68)
+[30Dec2024 23:51:58.240] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2747ms or 54 ticks behind
