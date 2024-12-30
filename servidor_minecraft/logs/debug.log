@@ -5696,3 +5696,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [30Dec2024 15:19:37.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [Wait, Where Are All The Cables?!]
 [30Dec2024 15:23:05.704] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [30Dec2024 15:23:05.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:28:05.718] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:28:05.729] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[30Dec2024 15:28:15.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
+[30Dec2024 15:32:29.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has reached the goal [Pick and Place]
+[30Dec2024 15:33:05.680] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[30Dec2024 15:33:05.689] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

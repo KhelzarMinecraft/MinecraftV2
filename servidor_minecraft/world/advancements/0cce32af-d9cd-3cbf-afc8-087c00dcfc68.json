@@ -4415,6 +4415,12 @@
     },
     "done": true
   },
+  "mekanism:logistical_sorter": {
+    "criteria": {
+      "logistical_sorter": "2024-12-30 15:32:29 +0000"
+    },
+    "done": true
+  },
   "mekanism:quantum_entangloporter": {
     "criteria": {
       "quantum_entangloporter": "2024-12-30 15:18:16 +0000"
@@ -4437,6 +4443,12 @@
     "criteria": {
       "sps_casing": "2024-12-30 15:19:31 +0000",
       "sps_port": "2024-12-30 15:19:32 +0000"
+    },
+    "done": true
+  },
+  "mekanism:sna": {
+    "criteria": {
+      "solar_neutron_activator": "2024-12-30 15:27:46 +0000"
     },
     "done": true
   },
