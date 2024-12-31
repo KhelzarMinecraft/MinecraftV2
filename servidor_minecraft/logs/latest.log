@@ -225,3 +225,7 @@
 [31Dec2024 04:31:32.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was shot by Skeleton
 [31Dec2024 04:33:02.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [31Dec2024 04:40:41.065] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/96761, l='ServerLevel[world]', x=-756.90, y=63.00, z=-1317.48] died, message: 'Unemployed was slain by Marisita'
+[31Dec2024 04:47:12.797] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita lost connection: Disconnected
+[31Dec2024 04:47:12.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita left the game
+[31Dec2024 04:47:18.297] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Khelzar lost connection: Disconnected
+[31Dec2024 04:47:18.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar left the game
