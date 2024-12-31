@@ -4735,9 +4735,21 @@
     },
     "done": true
   },
+  "awesomedungeonocean:ocean_the_column_temple/find_normal": {
+    "criteria": {
+      "requirement": "2024-12-31 02:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/bone_meal": {
+    "criteria": {
+      "has_tooth": "2024-12-31 03:00:32 +0000"
     },
     "done": true
   },
@@ -4780,6 +4792,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-31 02:57:21 +0000"
     },
     "done": true
   },
@@ -4843,6 +4861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-31 02:57:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 01:47:41 +0000"
@@ -4891,6 +4915,12 @@
     },
     "done": true
   },
+  "awesomedungeonocean:root": {
+    "criteria": {
+      "awesomedungeonocean:ocean_the_column_temple": "2024-12-31 02:56:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/jungle_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-31 01:20:33 +0000"
@@ -4906,6 +4936,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_polished_granite": "2024-12-31 02:16:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-31 02:57:21 +0000"
     },
     "done": true
   },
@@ -5086,6 +5122,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-31 02:57:21 +0000"
     },
     "done": true
   },
