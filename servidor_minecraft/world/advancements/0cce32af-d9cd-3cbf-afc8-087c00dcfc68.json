@@ -4759,6 +4759,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/building_blocks/dye_black_sleeping_bag": {
+    "criteria": {
+      "has_needed_dye": "2024-12-31 02:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 01:47:41 +0000"
@@ -4825,15 +4831,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-31 02:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 01:47:41 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-31 02:22:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-31 00:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-12-31 02:19:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab": {
+    "criteria": {
+      "has_polished_granite": "2024-12-31 02:16:49 +0000"
     },
     "done": true
   },
@@ -4867,6 +4897,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs": {
+    "criteria": {
+      "has_polished_granite": "2024-12-31 02:16:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 01:47:41 +0000"
@@ -4882,6 +4918,12 @@
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2024-12-31 00:39:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-12-31 02:19:14 +0000"
     },
     "done": true
   },
@@ -4903,6 +4945,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_polished_granite_stonecutting": {
+    "criteria": {
+      "has_polished_granite": "2024-12-31 02:16:49 +0000"
+    },
+    "done": true
+  },
   "exlinefurniture:recipes/misc/jungle": {
     "criteria": {
       "has_ingredient": "2024-12-31 01:20:33 +0000"
@@ -4912,6 +4960,12 @@
   "minecraft:recipes/building_blocks/nether_bricks": {
     "criteria": {
       "has_nether_brick": "2024-12-31 00:39:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-31 02:22:07 +0000"
     },
     "done": true
   },
@@ -4936,6 +4990,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-31 00:16:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2024-12-31 02:19:14 +0000"
     },
     "done": true
   },
@@ -4993,9 +5053,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-31 02:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-12-31 02:00:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2024-12-31 02:19:14 +0000"
     },
     "done": true
   },
@@ -5029,6 +5101,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_candle": {
+    "criteria": {
+      "has_black_dye": "2024-12-31 02:19:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 01:47:41 +0000"
@@ -5050,6 +5128,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
     "criteria": {
       "has_polished_deepslate": "2024-12-31 01:47:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_black_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-12-31 02:19:14 +0000"
     },
     "done": true
   },
