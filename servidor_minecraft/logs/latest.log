@@ -139,3 +139,12 @@
 [31Dec2024 02:23:18.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=67, z=-1248} BlockPos{x=268, y=65, z=-1249}
 [31Dec2024 02:23:18.830] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=67, z=-1248} BlockPos{x=268, y=65, z=-1249}
 [31Dec2024 02:36:04.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the weather to clear]
+[31Dec2024 02:45:56.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita moved too quickly! 6.434039739074706,-0.7684762024129839,-7.709412713933034
+[31Dec2024 02:46:05.807] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita lost connection: Timed out
+[31Dec2024 02:46:05.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita left the game
+[31Dec2024 02:46:44.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@2c0542e9[id=<null>,name=Marisita,properties={},legacy=false] (/127.179.63.7:51461): Took too long to log in
+[31Dec2024 02:46:44.307] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c0542e9[id=<null>,name=Marisita,properties={},legacy=false] (/127.179.63.7:51461) lost connection: Took too long to log in
+[31Dec2024 02:46:44.350] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[31Dec2024 02:47:54.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marisita[/127.179.63.7:46827] logged in with entity id 65048 at (-888.9645435739093, 111.53584062504456, -1488.5505255963049)
+[31Dec2024 02:47:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita joined the game
+[31Dec2024 02:47:54.991] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
