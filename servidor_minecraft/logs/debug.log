@@ -7135,3 +7135,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [31Dec2024 01:37:00.276] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Generating layout for layer 4
 [31Dec2024 01:37:00.276] [Worker-Main-182/DEBUG] [Dungeon Crawl/]: Generated Layer 4 with 10(0) Nodes and 7(0) Rooms
 [31Dec2024 01:37:57.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[31Dec2024 01:38:57.741] [Worker-Main-214/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[31Dec2024 01:39:39.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the time to 1000]
+[31Dec2024 01:41:09.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the weather to clear]
+[31Dec2024 01:41:37.765] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:41:37.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 01:46:37.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 01:46:37.741] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

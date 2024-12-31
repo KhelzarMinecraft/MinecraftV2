@@ -36,3 +36,6 @@
 [31Dec2024 01:34:53.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita joined the game
 [31Dec2024 01:34:54.013] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
 [31Dec2024 01:37:57.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[31Dec2024 01:38:57.741] [Worker-Main-214/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[31Dec2024 01:39:39.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the time to 1000]
+[31Dec2024 01:41:09.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the weather to clear]
