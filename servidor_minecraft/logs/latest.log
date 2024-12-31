@@ -21,3 +21,6 @@
 [31Dec2024 01:07:18.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the time to 1000]
 [31Dec2024 01:11:08.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [31Dec2024 01:11:48.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[31Dec2024 01:21:20.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was shot by Skeleton
+[31Dec2024 01:21:30.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[31Dec2024 01:25:23.875] [Worker-Main-214/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
