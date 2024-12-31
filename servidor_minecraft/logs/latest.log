@@ -9,3 +9,15 @@
 [31Dec2024 00:27:58.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the time to 1000]
 [31Dec2024 00:35:35.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the time to 1000]
 [31Dec2024 00:35:52.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the weather to clear]
+[31Dec2024 00:38:18.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[31Dec2024 00:39:17.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [Who is Cutting Onions?]
+[31Dec2024 00:40:54.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Marisita> IMPAKTADA
+[31Dec2024 00:42:24.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[31Dec2024 00:44:01.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Khelzar> [name:"Tronco Abeto", x:96, y:64, z:-4356, dim:minecraft:overworld]
+[31Dec2024 00:45:26.826] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/12924, l='ServerLevel[world]', x=31.47, y=83.00, z=-4467.39] died, message: 'Farmer was poked to death by a sweet berry bush'
+[31Dec2024 00:45:43.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the time to 1000]
+[31Dec2024 00:45:45.666] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/12812, l='ServerLevel[world]', x=102.93, y=60.00, z=-4325.41] died, message: 'Unemployed was slain by Zombie'
+[31Dec2024 00:56:44.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the time to 1000]
+[31Dec2024 01:07:18.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the time to 1000]
+[31Dec2024 01:11:08.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[31Dec2024 01:11:48.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
