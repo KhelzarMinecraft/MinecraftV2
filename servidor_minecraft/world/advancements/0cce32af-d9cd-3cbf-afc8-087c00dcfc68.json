@@ -4748,6 +4748,12 @@
     },
     "done": true
   },
+  "repurposed_structures:villages": {
+    "criteria": {
+      "in_village_dark_forest": "2024-12-31 03:16:53 +0000"
+    },
+    "done": false
+  },
   "livingthings:recipes/bone_meal": {
     "criteria": {
       "has_tooth": "2024-12-31 03:00:32 +0000"
