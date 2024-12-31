@@ -188,3 +188,4 @@
 [31Dec2024 03:14:38.078] [Worker-Main-324/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [31Dec2024 03:14:51.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/78021, l='ServerLevel[world]', x=-819.30, y=140.28, z=-3213.50] died, message: 'Unemployed froze to death'
 [31Dec2024 03:25:29.803] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[31Dec2024 04:01:22.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita was blown up by Creeper
