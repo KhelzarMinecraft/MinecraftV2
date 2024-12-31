@@ -4473,15 +4473,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+  "awesomedungeonocean:root": {
     "criteria": {
-      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
-    "criteria": {
-      "has_red_dye": "2024-12-31 03:31:17 +0000"
+      "awesomedungeonocean:ocean_the_column_temple": "2024-12-31 02:57:00 +0000"
     },
     "done": true
   },
@@ -4491,27 +4485,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-31 02:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-31 02:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2024-12-31 02:57:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2024-12-31 03:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2024-12-31 03:19:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_red_sandstone": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/chiseled_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2024-12-31 03:26:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone": {
-    "criteria": {
-      "has_sand": "2024-12-31 03:31:45 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cut_red_sandstone": {
     "criteria": {
       "has_red_sandstone": "2024-12-31 03:26:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_red_carpet": {
-    "criteria": {
-      "has_needed_dye": "2024-12-31 03:31:17 +0000"
     },
     "done": true
   },
@@ -4527,39 +4545,63 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-31 02:57:07 +0000"
-    },
-    "done": true
-  },
-  "awesomedungeonocean:root": {
-    "criteria": {
-      "awesomedungeonocean:ocean_the_column_temple": "2024-12-31 02:57:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-31 02:57:07 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_sandstone_stairs": {
     "criteria": {
       "has_red_sandstone": "2024-12-31 03:26:35 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dye_red_bed": {
+  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_sandstone_wall": {
+    "criteria": {
+      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-12-31 03:31:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
     "criteria": {
       "has_needed_dye": "2024-12-31 03:31:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/chiseled_red_sandstone_from_red_sandstone_stonecutting": {
+  "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
-      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
+      "has_needed_dye": "2024-12-31 03:31:17 +0000"
     },
     "done": true
   },
@@ -4581,33 +4623,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
-    "criteria": {
-      "has_cut_red_sandstone": "2024-12-31 03:33:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/red_candle": {
     "criteria": {
       "has_red_dye": "2024-12-31 03:31:17 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
-    "criteria": {
-      "has_iron_block": "2024-12-31 03:19:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_sandstone_slab_from_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
     },
     "done": true
   },
@@ -4629,51 +4647,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
-    "criteria": {
-      "has_dark_prismarine": "2024-12-31 02:57:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cut_red_sandstone_from_red_sandstone_stonecutting": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/ghast_smithing": {
-    "criteria": {
-      "has_ghast": "2024-12-31 03:58:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2024-12-31 03:31:17 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_sandstone_stairs_from_red_sandstone_stonecutting": {
+  "minecraft:recipes/building_blocks/red_sandstone": {
     "criteria": {
-      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
+      "has_sand": "2024-12-31 03:31:45 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/anvil": {
+  "minecraft:recipes/building_blocks/cut_red_sandstone_slab": {
     "criteria": {
-      "has_iron_block": "2024-12-31 03:19:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_sandstone_wall": {
-    "criteria": {
-      "has_red_sandstone": "2024-12-31 03:26:35 +0000"
+      "has_cut_red_sandstone": "2024-12-31 03:33:47 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/cut_red_sandstone_slab_from_cut_red_sandstone_stonecutting": {
     "criteria": {
       "has_cut_red_sandstone": "2024-12-31 03:33:47 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast_smithing": {
+    "criteria": {
+      "has_ghast": "2024-12-31 03:58:54 +0000"
     },
     "done": true
   },
