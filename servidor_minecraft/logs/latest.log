@@ -148,3 +148,32 @@
 [31Dec2024 02:47:54.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marisita[/127.179.63.7:46827] logged in with entity id 65048 at (-888.9645435739093, 111.53584062504456, -1488.5505255963049)
 [31Dec2024 02:47:54.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita joined the game
 [31Dec2024 02:47:54.991] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
+[31Dec2024 02:52:35.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Creative Mode]
+[31Dec2024 02:54:10.822] [Worker-Main-324/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2162, y=-21, z=-444}
+[31Dec2024 02:54:13.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita fell from a high place
+[31Dec2024 02:54:39.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
+[31Dec2024 02:54:59.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Survival Mode]
+[31Dec2024 02:55:40.073] [Worker-Main-270/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2014, y=14, z=-830}
+[31Dec2024 02:55:40.074] [Worker-Main-270/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2012, y=14, z=-830}
+[31Dec2024 02:55:40.074] [Worker-Main-270/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2014, y=14, z=-831}
+[31Dec2024 02:55:40.074] [Worker-Main-270/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2012, y=14, z=-831}
+[31Dec2024 02:55:40.075] [Worker-Main-270/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2014, y=14, z=-831}
+[31Dec2024 02:55:40.075] [Worker-Main-270/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2014, y=14, z=-830}
+[31Dec2024 02:55:40.075] [Worker-Main-270/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-2014, 14, -830)
+[31Dec2024 02:55:40.075] [Worker-Main-270/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2012, y=14, z=-831}
+[31Dec2024 02:55:40.076] [Worker-Main-270/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2012, y=14, z=-830}
+[31Dec2024 02:55:40.076] [Worker-Main-270/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-2012, 14, -830)
+[31Dec2024 02:56:17.724] [Worker-Main-270/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2009, y=14, z=-831}
+[31Dec2024 02:56:17.724] [Worker-Main-270/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-2009, 14, -831)
+[31Dec2024 02:56:17.724] [Worker-Main-270/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2009, y=14, z=-831}
+[31Dec2024 02:56:37.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has completed the challenge [Find: The column temple]
+[31Dec2024 02:56:48.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[31Dec2024 02:57:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita has completed the challenge [Find: The column temple]
+[31Dec2024 02:57:52.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita is bleeding. Marisita drowned
+[31Dec2024 02:58:13.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[31Dec2024 02:58:46.576] [Worker-Main-324/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2036, y=23, z=-879}
+[31Dec2024 02:58:46.577] [Worker-Main-324/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2035, y=23, z=-879}
+[31Dec2024 02:58:46.577] [Worker-Main-324/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2035, y=23, z=-879}
+[31Dec2024 02:58:46.577] [Worker-Main-324/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-2036, y=23, z=-879}
+[31Dec2024 02:58:46.578] [Worker-Main-324/ERROR] [Dungeon Crawl/]: Failed to fetch a mob spawner at (-2036, 23, -879)
+[31Dec2024 03:00:22.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
