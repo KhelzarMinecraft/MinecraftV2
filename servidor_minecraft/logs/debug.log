@@ -9601,3 +9601,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [31Dec2024 03:06:45.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
 [31Dec2024 03:06:48.421] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [31Dec2024 03:06:48.429] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 03:11:48.419] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 03:11:48.427] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[31Dec2024 03:14:38.078] [Worker-Main-324/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[31Dec2024 03:14:51.693] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/78021, l='ServerLevel[world]', x=-819.30, y=140.28, z=-3213.50] died, message: 'Unemployed froze to death'
+[31Dec2024 03:16:48.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[31Dec2024 03:16:48.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
