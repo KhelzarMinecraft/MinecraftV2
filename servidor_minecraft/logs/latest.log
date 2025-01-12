@@ -1087,3 +1087,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [12Jan2025 22:15:11.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.509s)! For help, type "help"
 [12Jan2025 22:15:11.934] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [12Jan2025 22:15:14.061] [Server thread/INFO] [patchouli/]: Sending reload packet to clients
+[12Jan2025 23:34:09.458] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Khelzar[/127.127.152.232:35817] logged in with entity id 72 at (-601.006766807453, 83.0, -1659.4099589478142)
+[12Jan2025 23:34:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar joined the game
+[12Jan2025 23:34:09.580] [Server thread/INFO] [Jade/]: Syncing config to Khelzar (0cce32af-d9cd-3cbf-afc8-087c00dcfc68)
