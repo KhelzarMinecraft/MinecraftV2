@@ -4250,3 +4250,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [12Jan2025 23:34:09.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar joined the game
 [12Jan2025 23:34:09.580] [Server thread/INFO] [Jade/]: Syncing config to Khelzar (0cce32af-d9cd-3cbf-afc8-087c00dcfc68)
 [12Jan2025 23:34:11.586] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0xab50f3ec8987cc47
+[12Jan2025 23:35:14.107] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 23:35:14.116] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jan2025 23:40:14.061] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jan2025 23:40:14.069] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
