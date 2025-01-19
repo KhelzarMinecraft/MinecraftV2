@@ -1091,3 +1091,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [19Jan2025 20:59:57.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar joined the game
 [19Jan2025 20:59:57.997] [Server thread/INFO] [Jade/]: Syncing config to Khelzar (0cce32af-d9cd-3cbf-afc8-087c00dcfc68)
 [19Jan2025 20:59:59.894] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2042ms or 40 ticks behind
+[19Jan2025 21:08:43.330] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3f5c67d9[id=<null>,name=Marisita,properties={},legacy=false] (/127.179.63.7:46711) lost connection: Disconnected
+[19Jan2025 21:08:53.309] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marisita[/127.179.63.7:33751] logged in with entity id 2285 at (-599.5169931365402, 83.0, -1660.4362975703236)
+[19Jan2025 21:08:53.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita joined the game
+[19Jan2025 21:08:53.335] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
+[19Jan2025 21:11:31.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Creative Mode]
+[19Jan2025 21:12:25.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[19Jan2025 21:13:05.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Survival Mode]
