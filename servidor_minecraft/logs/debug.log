@@ -4513,3 +4513,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [19Jan2025 21:52:27.249] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19Jan2025 21:57:27.237] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [19Jan2025 21:57:27.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 22:02:27.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 22:02:27.240] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 22:06:58.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Creative Mode]
+[19Jan2025 22:07:27.231] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 22:07:27.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 22:08:01.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Creative Mode]
+[19Jan2025 22:08:36.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Survival Mode]
+[19Jan2025 22:08:43.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[19Jan2025 22:09:54.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set the weather to clear]
+[19Jan2025 22:10:14.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Survival Mode]
+[19Jan2025 22:12:27.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 22:12:27.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19Jan2025 22:17:27.243] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19Jan2025 22:17:27.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
