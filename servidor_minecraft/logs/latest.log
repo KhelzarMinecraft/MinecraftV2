@@ -1100,3 +1100,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [19Jan2025 21:13:05.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Survival Mode]
 [19Jan2025 21:27:32.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [19Jan2025 21:32:24.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[19Jan2025 21:48:02.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Teleported Khelzar to Marisita]
