@@ -31,3 +31,7 @@
 [20Jan2025 01:58:16.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
 [20Jan2025 02:04:16.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
 [20Jan2025 02:08:49.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
+[20Jan2025 02:14:35.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Creative Mode]
+[20Jan2025 02:14:42.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Creative Mode]
+[20Jan2025 02:18:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
+[20Jan2025 02:18:54.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Survival Mode]
