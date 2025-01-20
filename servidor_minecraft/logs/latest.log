@@ -24,3 +24,7 @@
 [20Jan2025 01:38:27.259] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Marisita lost connection: Timed out
 [20Jan2025 01:38:27.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita left the game
 [20Jan2025 01:39:13.509] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@352cdbbd[id=<null>,name=Marisita,properties={},legacy=false] (/127.179.63.7:51917) lost connection: Disconnected
+[20Jan2025 01:39:28.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Marisita[/127.179.63.7:37607] logged in with entity id 53960 at (-615.7011338129295, 95.0, -1664.6398346747706)
+[20Jan2025 01:39:28.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Marisita joined the game
+[20Jan2025 01:39:28.735] [Server thread/INFO] [Jade/]: Syncing config to Marisita (5c1322b8-e6f8-31f6-b2e7-24fe90a1c5e3)
+[20Jan2025 01:47:28.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
