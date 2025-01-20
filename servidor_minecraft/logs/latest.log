@@ -1,3 +1,6 @@
 [20Jan2025 00:14:50.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
 [20Jan2025 00:24:02.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
 [20Jan2025 00:28:23.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Khelzar moved too quickly! -0.9149202787292552,1.0013359791121417,10.144041647790345
+[20Jan2025 00:34:04.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
+[20Jan2025 00:34:15.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the weather to clear]
+[20Jan2025 00:38:00.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [What a Deal!]
