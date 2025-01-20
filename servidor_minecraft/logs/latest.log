@@ -35,3 +35,10 @@
 [20Jan2025 02:14:42.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Creative Mode]
 [20Jan2025 02:18:09.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
 [20Jan2025 02:18:54.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set own game mode to Survival Mode]
+[20Jan2025 02:20:23.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Set own game mode to Survival Mode]
+[20Jan2025 02:22:41.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar is bleeding. Khelzar fell from a high place
+[20Jan2025 02:22:48.940] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Marisita: Teleported Marisita to Khelzar]
+[20Jan2025 02:23:01.313] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/62866, l='ServerLevel[world]', x=-259.63, y=63.50, z=-1496.89] died, message: 'Farmer was shot by Pillager'
+[20Jan2025 02:23:18.663] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/62864, l='ServerLevel[world]', x=-257.52, y=66.00, z=-1493.99] died, message: 'Farmer was shot by Pillager'
+[20Jan2025 02:26:16.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the weather to clear]
+[20Jan2025 02:27:40.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
