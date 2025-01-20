@@ -5029,3 +5029,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'exlinefurniture:oak_square_li
 [20Jan2025 00:37:27.232] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Jan2025 00:37:27.239] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Jan2025 00:38:00.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Khelzar has made the advancement [What a Deal!]
+[20Jan2025 00:42:27.229] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 00:42:27.236] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Jan2025 00:43:45.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Khelzar: Set the time to 1000]
+[20Jan2025 00:47:27.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Jan2025 00:47:27.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
